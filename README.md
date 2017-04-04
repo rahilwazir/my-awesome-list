@@ -37,6 +37,9 @@ Collection of scripts, softwares, answers and many other stuff that ease my (and
 - [Import CSV to MySQL](https://gist.github.com/rahilwazir/92ffa35aa2f421718de7499a498cc95a)
 - [Connect to WiFi through CLI](https://gist.github.com/rahilwazir/71fee2b5c2bf18cff9eedee1ec4b3f1a)
 - [Refresh WiFi through CLI](https://gist.github.com/rahilwazir/8f4a277cf20c282c65570ef5110a28b3)
+- tmux cheat sheet
+  1. http://tmuxcheatsheet.com/
+  2. https://gist.github.com/MohamedAlaa/2961058
 
 #### Fedora
 - [Core Windows Fonts](https://gist.github.com/rahilwazir/18c3bdfb72790d829b096f4e2dc02ef5)

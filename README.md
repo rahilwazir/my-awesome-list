@@ -21,7 +21,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Version Control](#version-control)
   - [GIT](#git)
 - [Web Services](#web-services)
-    
+- [Web Servers](#web-servers)
+  - [Apache](#apache)
+  - [Nginx](#nginx)
+
 ## Programming Languages
 
 ### PHP
@@ -77,3 +80,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ## Web Services
 - [WSDL, SOAP and REST](http://stackoverflow.com/questions/3764681/what-are-wsdl-soap-and-rest)
+
+## Web Servers
+
+### Apache
+- [.htaccess tester](http://htaccess.mwl.be/)
+
+### Nginx

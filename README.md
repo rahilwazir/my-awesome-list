@@ -7,6 +7,7 @@ Collection of scripts, softwares, answers and many other stuff that ease my (and
   - [PHP](#php)
     - [WordPress](#wordpress)
   - [C](#c)
+  - [JavaScript](#javascript)
 - [Licenses](#licenses)
 - [Operating Systems](#operating-systems)
   - [Linux](#linux)
@@ -29,6 +30,9 @@ Collection of scripts, softwares, answers and many other stuff that ease my (and
 
 ### C
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
+
+### JavaScript
+- [Tooltip: TippyJS](https://github.com/atomiks/tippyjs)
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)

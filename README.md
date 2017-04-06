@@ -1,5 +1,5 @@
 # My Awesome List
-Collection of awesome scripts, softwares, articles, projects, answers and many other stuff that I like and some has ease my job.(probably yours too).
+Collection of awesome scripts, softwares, articles, projects, answers and many other stuff that I like and some has ease my job (probably yours too).
 
 ## Contents
 
@@ -29,7 +29,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations
 - [WP Style Guide for PHPStorm](https://gist.github.com/rahilwazir/59e72e50bea7cc213e5a2e4733535695)
-- [WP Super Cache fragment cache](https://gist.github.com/rahilwazir/a5437bf7b2a29d1616c98c823329daee)
+- [WP Super Cache: Fragment cache](https://gist.github.com/rahilwazir/a5437bf7b2a29d1616c98c823329daee)
 
 ### C
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)

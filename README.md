@@ -6,6 +6,7 @@ Collection of scripts, softwares, answers and many other stuff that ease my (and
 - [Programming Languages](#programming-languages)
   - [PHP](#php)
     - [WordPress](#wordpress)
+  - [C](#c)
 - [Licenses](#licenses)
 - [Operating Systems](#operating-systems)
   - [Linux](#linux)
@@ -25,6 +26,9 @@ Collection of scripts, softwares, answers and many other stuff that ease my (and
 - [WP-CLI](https://github.com/wp-cli/wp-cli) is a set of command-line tools for managing WordPress installations
 - [WP Style Guide for PHPStorm](https://gist.github.com/rahilwazir/59e72e50bea7cc213e5a2e4733535695)
 - [WP Super Cache fragment dynamic data](https://gist.github.com/rahilwazir/a5437bf7b2a29d1616c98c823329daee)
+
+### C
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)

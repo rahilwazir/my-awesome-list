@@ -1,5 +1,5 @@
 # My Awesome List
-Collection of scripts, softwares, answers and many other stuff that ease my (and probably your) job.
+Collection of awesome scripts, softwares, articles, projects, answers and many other stuff that I like and some has ease my job.(probably yours too).
 
 ## Contents
 
@@ -8,6 +8,9 @@ Collection of scripts, softwares, answers and many other stuff that ease my (and
     - [WordPress](#wordpress)
   - [C](#c)
   - [JavaScript](#javascript)
+  - [Bash](#bash)
+  - [Go](#go)
+  - [Python](#python)
 - [Licenses](#licenses)
 - [Operating Systems](#operating-systems)
   - [Linux](#linux)
@@ -24,15 +27,24 @@ Collection of scripts, softwares, answers and many other stuff that ease my (and
 ### PHP
 
 #### WordPress
-- [WP-CLI](https://github.com/wp-cli/wp-cli) is a set of command-line tools for managing WordPress installations
+- [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations
 - [WP Style Guide for PHPStorm](https://gist.github.com/rahilwazir/59e72e50bea7cc213e5a2e4733535695)
-- [WP Super Cache fragment dynamic data](https://gist.github.com/rahilwazir/a5437bf7b2a29d1616c98c823329daee)
+- [WP Super Cache fragment cache](https://gist.github.com/rahilwazir/a5437bf7b2a29d1616c98c823329daee)
 
 ### C
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 
 ### JavaScript
-- [Tooltip: TippyJS](https://github.com/atomiks/tippyjs)
+- [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip
+
+### Bash
+- [Bash Guide](https://github.com/Idnan/bash-guide)
+
+### Go
+- [Robotgo](https://github.com/go-vgo/robotgo) - Native cross-platform system automation
+
+### Python
+- [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)

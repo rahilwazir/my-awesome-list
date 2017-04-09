@@ -4,13 +4,14 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ## Contents
 
 - [Programming Languages](#programming-languages)
-  - [PHP](#php)
-    - [WordPress](#wordpress)
   - [C](#c)
-  - [JavaScript](#javascript)
-  - [Bash](#bash)
   - [Go](#go)
   - [Python](#python)
+- [Scripting Languages](#scripting-languages)
+  - [PHP](#php)
+    - [WordPress](#wordpress)
+  - [JavaScript](#javascript)
+  - [Shell](#shell)
 - [Licenses](#licenses)
 - [Operating Systems](#operating-systems)
   - [Linux](#linux)
@@ -18,6 +19,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Windows](#windows)
 - [IDE](#ide)
   - [PHPStorm](#phpstorm)
+- [Text Editors](#text-editors)
+  - [Vim](#vim)
 - [Version Control](#version-control)
   - [GIT](#git)
 - [Web Services](#web-services)
@@ -27,6 +30,18 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ## Programming Languages
 
+### C
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
+
+### Go
+- [Robotgo](https://github.com/go-vgo/robotgo) - Native cross-platform system automation
+- [How I Start](http://howistart.org/posts/go/1/)
+
+### Python
+- [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
+
+## Scripting Languages
+
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
 
@@ -35,20 +50,14 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [WP Style Guide for PHPStorm](https://gist.github.com/rahilwazir/59e72e50bea7cc213e5a2e4733535695)
 - [WP Super Cache: Fragment cache](https://gist.github.com/rahilwazir/a5437bf7b2a29d1616c98c823329daee)
 
-### C
-- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
-
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip
 
-### Bash
+### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)
-
-### Go
-- [Robotgo](https://github.com/go-vgo/robotgo) - Native cross-platform system automation
-
-### Python
-- [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
+- [Mastering Bash and Terminal](https://www.blockloop.io/mastering-bash-and-terminal)
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh/)
+- [Explain Shell](https://explainshell.com/)
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)
@@ -72,6 +81,11 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Windows
 - [VMDK to VHDX](https://gist.github.com/rahilwazir/69a750b70348459875cbf40935af02cb)
+
+## Text Editors
+
+### Vim
+- [Copy and Paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste)
 
 ## Version Control
 

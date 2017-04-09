@@ -7,10 +7,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [C](#c)
   - [Go](#go)
   - [Python](#python)
-- [Scripting Languages](#scripting-languages)
   - [PHP](#php)
     - [WordPress](#wordpress)
   - [JavaScript](#javascript)
+  - [NodeJS](#nodejs)
   - [Shell](#shell)
 - [Licenses](#licenses)
 - [Operating Systems](#operating-systems)
@@ -18,7 +18,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
     - [Fedora](#fedora)
   - [Windows](#windows)
     - [PowerShell](#powershell)
-  - []()
 - [IDE](#ide)
   - [PHPStorm](#phpstorm)
 - [Text Editors](#text-editors)
@@ -30,6 +29,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Apache](#apache)
   - [Nginx](#nginx)
   - [HTTP](https://blog.fortrabbit.com/mastering-http-caching)
+- [Useful Resources](#useful-resources)
 
 ## Programming Languages
 
@@ -45,8 +45,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
 
-## Scripting Languages
-
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
 
@@ -57,6 +55,15 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip
+- [moveTo](https://github.com/hsnaydd/moveTo) - Lightweight scroll animation
+- [WebTorrent](https://github.com/feross/webtorrent) - The streaming torrent client
+- [Tesseract.js](https://github.com/naptha/tesseract.js) - Tesseract.js is a javascript library that gets words in almost any language out of images
+- [scrollMonitor](https://github.com/stutrek/scrollMonitor)
+- [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
+
+### NodeJS
+- [franc](https://github.com/wooorm/franc) - Natural language detection
+- [Caporal.js](https://github.com/mattallty/Caporal.js) - Full-featured framework for building command line applications (cli)
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)
@@ -119,3 +126,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### HTTP
 - [Caching](https://blog.fortrabbit.com/mastering-http-caching)
+
+## Useful Resources
+- [Learn X in Y minutes](https://learnxinyminutes.com/) - Learn (ANY) language in Y minutes
+- [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)

@@ -18,6 +18,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
     - [Fedora](#fedora)
   - [Windows](#windows)
     - [PowerShell](#powershell)
+  - []()
 - [IDE](#ide)
   - [PHPStorm](#phpstorm)
 - [Text Editors](#text-editors)
@@ -28,6 +29,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Web Servers](#web-servers)
   - [Apache](#apache)
   - [Nginx](#nginx)
+  - [HTTP](https://blog.fortrabbit.com/mastering-http-caching)
 
 ## Programming Languages
 
@@ -66,6 +68,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)
 
 ## Operating Systems
+
+- [Bitwise Operators](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
+- [Intro to Binary, Hex and more](https://code.tutsplus.com/articles/number-systems-an-introduction-to-binary-hexadecimal-and-more--active-10848)
+- [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 
 ### Linux
 - [Upload file via SCP](https://gist.github.com/rahilwazir/c055164fe3efee21e921471b5869c0ed)
@@ -110,3 +116,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [.htaccess tester](http://htaccess.mwl.be/)
 
 ### Nginx
+
+### HTTP
+- [Caching](https://blog.fortrabbit.com/mastering-http-caching)

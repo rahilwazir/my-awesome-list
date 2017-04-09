@@ -30,6 +30,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Nginx](#nginx)
   - [HTTP](https://blog.fortrabbit.com/mastering-http-caching)
 - [Useful Resources](#useful-resources)
+- [Articles](#articles)
 
 ## Programming Languages
 
@@ -130,3 +131,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ## Useful Resources
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Learn (ANY) language in Y minutes
 - [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+
+## Articles
+- [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)
+- [How I Became a Better Programmer](http://jlongster.com/How-I-Became-Better-Programmer)

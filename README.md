@@ -53,6 +53,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations
 - [WP Style Guide for PHPStorm](https://gist.github.com/rahilwazir/59e72e50bea7cc213e5a2e4733535695)
 - [WP Super Cache: Fragment cache](https://gist.github.com/rahilwazir/a5437bf7b2a29d1616c98c823329daee)
+- [Debug WP Queries](http://wordpress.stackexchange.com/a/33298/36349)
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

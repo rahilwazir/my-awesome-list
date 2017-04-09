@@ -17,6 +17,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Linux](#linux)
     - [Fedora](#fedora)
   - [Windows](#windows)
+    - [PowerShell](#powershell)
 - [IDE](#ide)
   - [PHPStorm](#phpstorm)
 - [Text Editors](#text-editors)
@@ -36,6 +37,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### Go
 - [Robotgo](https://github.com/go-vgo/robotgo) - Native cross-platform system automation
 - [How I Start](http://howistart.org/posts/go/1/)
+- [Go by Example](https://gobyexample.com/)
+
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -81,6 +84,11 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Windows
 - [VMDK to VHDX](https://gist.github.com/rahilwazir/69a750b70348459875cbf40935af02cb)
+
+#### Powershell
+- [Remotely enable/disable a network interface](https://blogs.technet.microsoft.com/chrisavis/2013/07/09/using-powershell-to-remotely-enabledisable-a-network-interface/)
+- [Find Connected Network Adapters](https://blogs.technet.microsoft.com/heyscriptingguy/2014/01/15/using-powershell-to-find-connected-network-adapters/)
+- [Execution Policy](https://msdn.microsoft.com/powershell/reference/5.1/Microsoft.PowerShell.Core/about/about_Execution_Policies)
 
 ## Text Editors
 

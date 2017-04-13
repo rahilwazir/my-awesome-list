@@ -54,6 +54,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [WP Style Guide for PHPStorm](https://gist.github.com/rahilwazir/59e72e50bea7cc213e5a2e4733535695)
 - [WP Super Cache: Fragment cache](https://gist.github.com/rahilwazir/a5437bf7b2a29d1616c98c823329daee)
 - [Debug WP Queries](http://wordpress.stackexchange.com/a/33298/36349)
+- [Handle file uploading](https://gist.github.com/rahilwazir/7476ae318de93128d1cf19fb49aa3006)
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

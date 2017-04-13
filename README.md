@@ -48,6 +48,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
+- [Recursive Search and Remove](https://github.com/rahilwazir/RecursiveSearchAndRemove)
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations

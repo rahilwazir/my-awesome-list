@@ -41,7 +41,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Robotgo](https://github.com/go-vgo/robotgo) - Native cross-platform system automation
 - [How I Start](http://howistart.org/posts/go/1/)
 - [Go by Example](https://gobyexample.com/)
-
+- [PhantomJS](https://github.com/benbjohnson/phantomjs)
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -68,6 +68,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - Full-featured framework for building command line applications (cli)
+- [PhantomJS](https://github.com/ariya/phantomjs)
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

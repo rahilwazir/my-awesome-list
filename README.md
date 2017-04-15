@@ -85,6 +85,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Bitwise Operators](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
 - [Intro to Binary, Hex and more](https://code.tutsplus.com/articles/number-systems-an-introduction-to-binary-hexadecimal-and-more--active-10848)
 - [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
+- [ASCII Table](http://www.asciitable.com/)
 
 ### Linux
 - [Upload file via SCP](https://gist.github.com/rahilwazir/c055164fe3efee21e921471b5869c0ed)

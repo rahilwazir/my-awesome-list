@@ -22,6 +22,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [PHPStorm](#phpstorm)
 - [Text Editors](#text-editors)
   - [Vim](#vim)
+  - [Sublime Text](#sublime-text)
 - [Version Control](#version-control)
   - [GIT](#git)
 - [Web Services](#web-services)
@@ -115,6 +116,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Vim
 - [Copy and Paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste)
+
+### Sublime Text
+- [Material Theme](https://github.com/equinusocio/material-theme)
 
 ## Version Control
 

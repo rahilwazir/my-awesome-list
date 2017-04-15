@@ -104,6 +104,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Windows
 - [VMDK to VHDX](https://gist.github.com/rahilwazir/69a750b70348459875cbf40935af02cb)
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 
 #### Powershell
 - [Remotely enable/disable a network interface](https://blogs.technet.microsoft.com/chrisavis/2013/07/09/using-powershell-to-remotely-enabledisable-a-network-interface/)

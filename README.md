@@ -12,6 +12,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [JavaScript](#javascript)
   - [NodeJS](#nodejs)
   - [Shell](#shell)
+  - [Ruby](#ruby)
 - [Licenses](#licenses)
 - [Operating Systems](#operating-systems)
   - [Linux](#linux)
@@ -76,6 +77,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Mastering Bash and Terminal](https://www.blockloop.io/mastering-bash-and-terminal)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh/)
 - [Explain Shell](https://explainshell.com/)
+
+### Ruby
+- [Tmuxinator](https://github.com/tmuxinator/tmuxinator)
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)

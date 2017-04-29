@@ -67,6 +67,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Tesseract.js](https://github.com/naptha/tesseract.js) - Tesseract.js is a javascript library that gets words in almost any language out of images
 - [scrollMonitor](https://github.com/stutrek/scrollMonitor)
 - [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
+- [Sizzy](https://github.com/kitze/sizzy) - A tool for developing responsive websites crazy-fast
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

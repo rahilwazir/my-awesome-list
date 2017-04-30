@@ -30,7 +30,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Web Servers](#web-servers)
   - [Apache](#apache)
   - [Nginx](#nginx)
-  - [HTTP](https://blog.fortrabbit.com/mastering-http-caching)
+  - [HTTP](#http)
+- [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
 
@@ -145,6 +146,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### HTTP
 - [Caching](https://blog.fortrabbit.com/mastering-http-caching)
+
+## Curated Lists
+- [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 
 ## Useful Resources
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Learn (ANY) language in Y minutes

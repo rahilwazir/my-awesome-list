@@ -60,6 +60,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Debug WP Queries](http://wordpress.stackexchange.com/a/33298/36349)
 - [Handle file uploading](https://gist.github.com/rahilwazir/7476ae318de93128d1cf19fb49aa3006)
 - [WordPress Media Javascript Guide](https://github.com/ericandrewlewis/wp-media-javascript-guide)
+- [Preview readme.txt](https://wpreadme2markdown.snch.im)
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

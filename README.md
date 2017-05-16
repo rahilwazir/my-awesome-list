@@ -31,6 +31,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Apache](#apache)
   - [Nginx](#nginx)
   - [HTTP](#http)
+- [Applications](#applications)
+  - [CLI](#cli)
+  - [Web](#web)
+  - [Desktop](#desktop)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
@@ -61,6 +65,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Handle file uploading](https://gist.github.com/rahilwazir/7476ae318de93128d1cf19fb49aa3006)
 - [WordPress Media Javascript Guide](https://github.com/ericandrewlewis/wp-media-javascript-guide)
 - [Preview readme.txt](https://wpreadme2markdown.snch.im)
+- [Internationalization: You’re probably doing it wrong](http://ottopress.com/2012/internationalization-youre-probably-doing-it-wrong/)
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip
@@ -147,6 +152,12 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### HTTP
 - [Caching](https://blog.fortrabbit.com/mastering-http-caching)
+
+## Applications
+
+### CLI
+- [Translate Shell](https://github.com/soimort/translate-shell)
+- [Antigen](https://github.com/zsh-users/antigen)
 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.

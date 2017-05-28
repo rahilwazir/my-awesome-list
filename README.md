@@ -101,6 +101,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [ASCII Table](http://www.asciitable.com/)
 
 ### Linux
+- [A little bit about a linux kernel](https://github.com/0xAX/linux-insides)
 - [Upload file via SCP](https://gist.github.com/rahilwazir/c055164fe3efee21e921471b5869c0ed)
 - [Fix Web file Permissions](https://gist.github.com/rahilwazir/558dbc689183ff27b6fc3ea8a8ee160a)
 - [Import CSV to MySQL](https://gist.github.com/rahilwazir/92ffa35aa2f421718de7499a498cc95a)

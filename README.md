@@ -35,6 +35,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [CLI](#cli)
   - [Web](#web)
   - [Desktop](#desktop)
+- [Networking](#networking)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
@@ -159,6 +160,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### CLI
 - [Translate Shell](https://github.com/soimort/translate-shell)
 - [Antigen](https://github.com/zsh-users/antigen)
+
+## Networking
+- [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147)
 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.

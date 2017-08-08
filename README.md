@@ -76,6 +76,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [scrollMonitor](https://github.com/stutrek/scrollMonitor)
 - [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
 - [Sizzy](https://github.com/kitze/sizzy) - A tool for developing responsive websites crazy-fast
+- [nanoid](https://github.com/ai/nanoid) - A tiny, secure URL-friendly unique string ID generator for JavaScript
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

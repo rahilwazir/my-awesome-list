@@ -77,6 +77,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
 - [Sizzy](https://github.com/kitze/sizzy) - A tool for developing responsive websites crazy-fast
 - [nanoid](https://github.com/ai/nanoid) - A tiny, secure URL-friendly unique string ID generator for JavaScript
+- [isotope](https://github.com/metafizzy/isotope) - Filter & sort magical layouts
+- [Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

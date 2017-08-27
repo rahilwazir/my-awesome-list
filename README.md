@@ -79,6 +79,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [nanoid](https://github.com/ai/nanoid) - A tiny, secure URL-friendly unique string ID generator for JavaScript
 - [isotope](https://github.com/metafizzy/isotope) - Filter & sort magical layouts
 - [Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
+- [moon](https://github.com/kbrsh/moon) - :crescent_moon: :zap: A minimal, blazing fast UI library.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

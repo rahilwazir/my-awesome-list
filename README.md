@@ -13,6 +13,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [NodeJS](#nodejs)
   - [Shell](#shell)
   - [Ruby](#ruby)
+- [Markup Languages](#markup-languages)
+  - [HTML](#html)
+  - [CSS](#css)
 - [Licenses](#licenses)
 - [Operating Systems](#operating-systems)
   - [Linux](#linux)
@@ -97,6 +100,11 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)
+
+## Markup Languages
+
+### CSS
+- [vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
 
 ## Operating Systems
 

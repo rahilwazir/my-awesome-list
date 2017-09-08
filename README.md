@@ -47,6 +47,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### C
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
+- [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 
 ### Go
 - [Robotgo](https://github.com/go-vgo/robotgo) - Native cross-platform system automation

@@ -61,6 +61,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
 - [Recursive Search and Remove](https://github.com/rahilwazir/RecursiveSearchAndRemove)
+- [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP 
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations
@@ -86,6 +87,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [moon](https://github.com/kbrsh/moon) - :crescent_moon: :zap: A minimal, blazing fast UI library.
 - [workbox](https://github.com/GoogleChrome/workbox) - Workbox: JavaScript libraries for Offline Caching
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader in pure JS
+- [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

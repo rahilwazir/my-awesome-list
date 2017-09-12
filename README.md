@@ -85,6 +85,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
 - [moon](https://github.com/kbrsh/moon) - :crescent_moon: :zap: A minimal, blazing fast UI library.
 - [workbox](https://github.com/GoogleChrome/workbox) - Workbox: JavaScript libraries for Offline Caching
+- [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader in pure JS
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

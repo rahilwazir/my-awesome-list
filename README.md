@@ -99,6 +99,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Mastering Bash and Terminal](https://www.blockloop.io/mastering-bash-and-terminal)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh/)
 - [Explain Shell](https://explainshell.com/)
+- [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 
 ### Ruby
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator)

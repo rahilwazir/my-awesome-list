@@ -88,6 +88,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [workbox](https://github.com/GoogleChrome/workbox) - Workbox: JavaScript libraries for Offline Caching
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader in pure JS
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
+- [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - :scroll: Automatically add next page
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

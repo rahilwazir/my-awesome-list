@@ -48,6 +48,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### C
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
+- [heap_allocator](https://github.com/CCareaga/heap_allocator) - A simple heap memory allocator in ~200 lines.
 
 ### Go
 - [Robotgo](https://github.com/go-vgo/robotgo) - Native cross-platform system automation
@@ -89,6 +90,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader in pure JS
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - :scroll: Automatically add next page
+- [modern-js-cheatsheet](https://github.com/CCareaga/heap_allocator) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

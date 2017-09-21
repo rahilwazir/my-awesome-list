@@ -200,3 +200,4 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)
 - [How I Became a Better Programmer](http://jlongster.com/How-I-Became-Better-Programmer)
 - [Convert your Web App to a Mobile App with Apache Cordova](https://auth0.com/blog/converting-your-web-app-to-mobile/)
+- [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)

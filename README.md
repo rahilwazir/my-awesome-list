@@ -27,6 +27,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Text Editors](#text-editors)
   - [Vim](#vim)
   - [Sublime Text](#sublime-text)
+- [Themes](#themes)
 - [Version Control](#version-control)
   - [GIT](#git)
 - [Web Services](#web-services)
@@ -159,6 +160,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Sublime Text
 - [Material Theme](https://github.com/equinusocio/material-theme)
+
+## Themes
+- [Dracula](https://draculatheme.com)
 
 ## Version Control
 

@@ -93,6 +93,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - :scroll: Automatically add next page
 - [modern-js-cheatsheet](https://github.com/CCareaga/heap_allocator) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors
+- [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

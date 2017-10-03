@@ -59,6 +59,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
+- [halo](https://github.com/ManrajGrover/halo) - Beautiful terminal spinners in Python 
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

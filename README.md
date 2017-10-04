@@ -159,6 +159,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Vim
 - [Copy and Paste](http://vim.wikia.com/wiki/Copy,_cut_and_paste)
+- [Interactive Vim](http://www.openvim.com/) - Interactive Vim tutorial
 
 ### Sublime Text
 - [Material Theme](https://github.com/equinusocio/material-theme)

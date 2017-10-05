@@ -95,6 +95,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [modern-js-cheatsheet](https://github.com/CCareaga/heap_allocator) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about
+- [learning-react](https://github.com/MoonHighway/learning-react) - The code samples for Learning React
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

@@ -99,6 +99,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about
 - [learning-react](https://github.com/MoonHighway/learning-react) - The code samples for Learning React
+- [fine-uploader](https://github.com/FineUploader/fine-uploader)
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

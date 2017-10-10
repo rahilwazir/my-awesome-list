@@ -117,6 +117,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Rust
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. 
+- [rustup.rs](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)

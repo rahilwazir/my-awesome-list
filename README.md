@@ -13,6 +13,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [NodeJS](#nodejs)
   - [Shell](#shell)
   - [Ruby](#ruby)
+  - [Rust](#rust)
 - [Markup Languages](#markup-languages)
   - [HTML](#html)
   - [CSS](#css)
@@ -60,6 +61,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
 - [halo](https://github.com/ManrajGrover/halo) - Beautiful terminal spinners in Python 
+- [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
@@ -112,6 +114,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Ruby
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator)
+
+### Rust
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. 
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)

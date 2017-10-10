@@ -77,6 +77,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [WordPress Media Javascript Guide](https://github.com/ericandrewlewis/wp-media-javascript-guide)
 - [Preview readme.txt](https://wpreadme2markdown.snch.im)
 - [Internationalization: You’re probably doing it wrong](http://ottopress.com/2012/internationalization-youre-probably-doing-it-wrong/)
+- [restrict-content-pro](https://github.com/restrictcontentpro/restrict-content-pro) - Restrict Content Pro 
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

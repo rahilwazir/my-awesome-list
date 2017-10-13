@@ -207,6 +207,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
+- [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 
 ## Useful Resources
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Learn (ANY) language in Y minutes

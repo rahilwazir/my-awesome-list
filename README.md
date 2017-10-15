@@ -223,3 +223,4 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Convert your Web App to a Mobile App with Apache Cordova](https://auth0.com/blog/converting-your-web-app-to-mobile/)
 - [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - [A Guide to Faster Web App I/O and Data Operations with Streams](https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/)
+- [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)

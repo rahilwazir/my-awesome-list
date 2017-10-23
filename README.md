@@ -65,8 +65,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
-- [Recursive Search and Remove](https://github.com/rahilwazir/RecursiveSearchAndRemove)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP 
+- [php-malware-finder](https://github.com/nbs-system/php-malware-finder) - Detect potentially malicious PHP files
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations

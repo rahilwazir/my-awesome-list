@@ -132,6 +132,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### CSS
 - [vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
+- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## Operating Systems
 

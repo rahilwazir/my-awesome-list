@@ -78,6 +78,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Preview readme.txt](https://wpreadme2markdown.snch.im)
 - [Internationalization: You’re probably doing it wrong](http://ottopress.com/2012/internationalization-youre-probably-doing-it-wrong/)
 - [restrict-content-pro](https://github.com/restrictcontentpro/restrict-content-pro) - Restrict Content Pro 
+- [WPGlobus](https://wordpress.org/plugins/wpglobus) – Multilingual Everything!
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip
@@ -204,6 +205,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### CLI
 - [Translate Shell](https://github.com/soimort/translate-shell)
 - [Antigen](https://github.com/zsh-users/antigen)
+- [ngrok](https://ngrok.com/) - Secure tunnels to localhost
 
 ## Networking
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147)

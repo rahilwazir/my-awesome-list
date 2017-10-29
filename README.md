@@ -58,6 +58,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Go by Example](https://gobyexample.com/)
 - [PhantomJS](https://github.com/benbjohnson/phantomjs)
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
+- [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -118,6 +119,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Explain Shell](https://explainshell.com/)
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
 
 ### Ruby
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator)
@@ -215,6 +217,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+- [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 
 ## Useful Resources
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Learn (ANY) language in Y minutes

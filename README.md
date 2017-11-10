@@ -191,6 +191,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### GIT
 - [Post Merge Hook](https://gist.github.com/rahilwazir/0dfa0f82675b867581a5d62f1c0d760e)
 - [CTRL+M Issue](https://gist.github.com/rahilwazir/c465f43c7446eb77b4438d40673b56d5)
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git 
 
 ## Web Services
 - [WSDL, SOAP and REST](http://stackoverflow.com/questions/3764681/what-are-wsdl-soap-and-rest)

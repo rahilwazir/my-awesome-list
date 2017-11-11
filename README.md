@@ -41,6 +41,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Web](#web)
   - [Desktop](#desktop)
 - [Networking](#networking)
+- [Cryptocurrency](#cryptocurrency)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
@@ -215,6 +216,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ## Networking
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147)
+
+## Cryptocurrency
+- [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.

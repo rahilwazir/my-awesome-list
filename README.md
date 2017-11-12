@@ -122,6 +122,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display
+- [Guake](https://github.com/Guake/guake/)
 
 ### Ruby
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator)

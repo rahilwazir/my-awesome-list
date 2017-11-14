@@ -60,11 +60,13 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [PhantomJS](https://github.com/benbjohnson/phantomjs)
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
+- [lilliput](https://github.com/discordapp/lilliput) - Resize images and animated GIFs in Go
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
 - [halo](https://github.com/ManrajGrover/halo) - Beautiful terminal spinners in Python 
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
+- [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

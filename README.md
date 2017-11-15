@@ -61,6 +61,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [lilliput](https://github.com/discordapp/lilliput) - Resize images and animated GIFs in Go
+- [imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
+- [picfit](https://github.com/thoas/picfit) - https://github.com/thoas/picfit
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

@@ -62,7 +62,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [lilliput](https://github.com/discordapp/lilliput) - Resize images and animated GIFs in Go
 - [imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
-- [picfit](https://github.com/thoas/picfit) - https://github.com/thoas/picfit
+- [picfit](https://github.com/thoas/picfit) - An image resizing server written in Go
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

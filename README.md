@@ -111,6 +111,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript.
 - [tooltipster](https://github.com/iamceege/tooltipster/) - A jQuery tooltip plugin 
 - [plupload](https://github.com/moxiecode/plupload) - Plupload is JavaScript API for building file uploaders.
+- [filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
+- [fabric.js](https://github.com/kangax/fabric.js/) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

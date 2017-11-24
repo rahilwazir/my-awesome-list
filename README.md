@@ -86,6 +86,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Internationalization: You’re probably doing it wrong](http://ottopress.com/2012/internationalization-youre-probably-doing-it-wrong/)
 - [restrict-content-pro](https://github.com/restrictcontentpro/restrict-content-pro) - Restrict Content Pro 
 - [WPGlobus](https://wordpress.org/plugins/wpglobus) – Multilingual Everything!
+- [WP Premium Plugins](https://github.com/wp-premium) - Premium WordPress plugins and themes synchronized to GitHub.
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip
@@ -227,6 +228,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ## Cryptocurrency
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+### Payment Gateways
+- [Coinbase](https://www.coinbase.com/)
+- [CoinGate](https://coingate.com/)
 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.

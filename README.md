@@ -238,6 +238,12 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 
+### Unicode Character
+- [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)
+- [Unicode character table](https://unicode-table.com/en/)
+- [utf-8 icons](https://www.utf8icons.com/)
+- [tutorialzine](https://tutorialzine.com/2014/12/you-dont-need-icons-here-are-100-unicode-symbols-that-you-can-use)
+
 ## Useful Resources
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Learn (ANY) language in Y minutes
 - [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)

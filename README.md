@@ -252,6 +252,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology
 - [Codelab - Beat the hackers](https://google-gruyere.appspot.com/)
 - [Why VitualBox or VMware can not run with Hyper-V enabled Windows 10](https://superuser.com/questions/1208850/why-vitualbox-or-vmware-can-not-run-with-hyper-v-enabled-windows-10)
+- [exercism.io](http://exercism.io) - Level up your programming skills
+- [ES6 for beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

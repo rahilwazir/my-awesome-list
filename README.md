@@ -254,6 +254,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Why VitualBox or VMware can not run with Hyper-V enabled Windows 10](https://superuser.com/questions/1208850/why-vitualbox-or-vmware-can-not-run-with-hyper-v-enabled-windows-10)
 - [exercism.io](http://exercism.io) - Level up your programming skills
 - [ES6 for beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-9.html)
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

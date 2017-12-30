@@ -256,7 +256,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [exercism.io](http://exercism.io) - Level up your programming skills
 - [ES6 for beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-9.html)
-- [Hack a turned-off computer, or running unisgned code in Intel ME](https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine-wp.pdf)
+- [Hack a turned-off computer, or running unsigned code in Intel ME](https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine-wp.pdf)
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

@@ -239,6 +239,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [codeface](https://github.com/chrissimpkins/codeface) -  Typefaces for source code beautification
+- [awesome-go](https://github.com/avelino/awesome-go)
 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

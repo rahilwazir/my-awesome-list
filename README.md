@@ -240,6 +240,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [codeface](https://github.com/chrissimpkins/codeface) -  Typefaces for source code beautification
 - [awesome-go](https://github.com/avelino/awesome-go)
+- [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

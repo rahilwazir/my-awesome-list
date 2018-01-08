@@ -14,6 +14,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Shell](#shell)
   - [Ruby](#ruby)
   - [Rust](#rust)
+- [Bundlers](#bundlers)
 - [Markup Languages](#markup-languages)
   - [HTML](#html)
   - [CSS](#css)
@@ -70,6 +71,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [halo](https://github.com/ManrajGrover/halo) - Beautiful terminal spinners in Python 
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
+- [Face Recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
@@ -115,6 +117,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [plupload](https://github.com/moxiecode/plupload) - Plupload is JavaScript API for building file uploaders.
 - [filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
 - [fabric.js](https://github.com/kangax/fabric.js/) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
@@ -139,6 +142,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### Rust
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. 
 - [rustup.rs](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer
+
+## Bundlers
+- [parcel](https://github.com/parcel-bundler/parcel)
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)

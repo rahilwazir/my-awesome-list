@@ -66,6 +66,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [picfit](https://github.com/thoas/picfit) - An image resizing server written in Go
 - [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [color](https://github.com/fatih/color) - Color package for Go (golang)
+- [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

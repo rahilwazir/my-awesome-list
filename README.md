@@ -253,6 +253,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [codeface](https://github.com/chrissimpkins/codeface) -  Typefaces for source code beautification
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

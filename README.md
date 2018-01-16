@@ -55,6 +55,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [heap_allocator](https://github.com/CCareaga/heap_allocator) - A simple heap memory allocator in ~200 lines.
 
 ### Go
+- [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers
 - [Robotgo](https://github.com/go-vgo/robotgo) - Native cross-platform system automation
 - [How I Start](http://howistart.org/posts/go/1/)
 - [Go by Example](https://gobyexample.com/)

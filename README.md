@@ -70,6 +70,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [color](https://github.com/fatih/color) - Color package for Go (golang)
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+- [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -124,6 +125,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [fabric.js](https://github.com/kangax/fabric.js/) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
 - [tiny-compiler](https://github.com/mgechev/tiny-compiler) - A tiny evaluator and transpiler of arithmetic expressions.
+- [tui.editor](https://github.com/nhnent/tui.editor) - :bread: :memo: Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

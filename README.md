@@ -147,6 +147,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### Rust
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. 
 - [rustup.rs](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 
 ## Bundlers
 - [parcel](https://github.com/parcel-bundler/parcel)

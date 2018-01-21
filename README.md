@@ -123,6 +123,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
 - [fabric.js](https://github.com/kangax/fabric.js/) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
+- [tiny-compiler](https://github.com/mgechev/tiny-compiler) - A tiny evaluator and transpiler of arithmetic expressions.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
@@ -148,6 +149,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. 
 - [rustup.rs](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [redox](https://github.com/redox-os/redox) - A Rust Operating System
 
 ## Bundlers
 - [parcel](https://github.com/parcel-bundler/parcel)

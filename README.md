@@ -71,6 +71,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network
+- [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

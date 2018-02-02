@@ -157,6 +157,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [rustup.rs](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [redox](https://github.com/redox-os/redox) - A Rust Operating System
+- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 
 ## Bundlers
 - [parcel](https://github.com/parcel-bundler/parcel)

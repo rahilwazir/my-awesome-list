@@ -98,6 +98,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [restrict-content-pro](https://github.com/restrictcontentpro/restrict-content-pro) - Restrict Content Pro 
 - [WPGlobus](https://wordpress.org/plugins/wpglobus) – Multilingual Everything!
 - [WP Premium Plugins](https://github.com/wp-premium) - Premium WordPress plugins and themes synchronized to GitHub.
+- [wp-sec](https://github.com/markri/wp-sec) - Wp-sec is an exentsion for wp-cli which checks for Wordpress CVE security issues at wpvulndb.com
+- [wp-installer](https://github.com/mattgrshaw/wp-installer) - Simple commands for managing local WordPress sites
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

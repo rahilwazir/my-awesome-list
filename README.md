@@ -100,6 +100,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [WP Premium Plugins](https://github.com/wp-premium) - Premium WordPress plugins and themes synchronized to GitHub.
 - [wp-sec](https://github.com/markri/wp-sec) - Wp-sec is an exentsion for wp-cli which checks for Wordpress CVE security issues at wpvulndb.com
 - [wp-installer](https://github.com/mattgrshaw/wp-installer) - Simple commands for managing local WordPress sites
+- [db-checkpoint](https://github.com/binarygary/db-checkpoint) - Adds a new command to WP-CLI so you can treat your DB like a save point in a video game.
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

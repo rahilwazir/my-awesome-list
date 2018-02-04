@@ -73,6 +73,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network
 - [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf)
+- [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -265,6 +266,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
+- [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

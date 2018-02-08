@@ -77,6 +77,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 - [wiki](https://github.com/walle/wiki) - Command line tool to fetch summaries from MediaWiki wikis, like Wikipedia
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
+- [diagram](https://github.com/esimov/diagram) - CLI app to convert ascii arts into hand drawn diagrams.
+- [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

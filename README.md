@@ -87,6 +87,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [Face Recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [fbs](https://github.com/mherrmann/fbs) - Create cross-platform desktop apps in minutes, not months
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

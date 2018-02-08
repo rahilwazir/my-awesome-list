@@ -74,6 +74,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf)
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
+- [wiki](https://github.com/walle/wiki) - Command line tool to fetch summaries from MediaWiki wikis, like Wikipedia
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

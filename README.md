@@ -53,6 +53,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 - [heap_allocator](https://github.com/CCareaga/heap_allocator) - A simple heap memory allocator in ~200 lines.
+- [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 
 ### Go
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers
@@ -75,6 +76,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf)
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 - [wiki](https://github.com/walle/wiki) - Command line tool to fetch summaries from MediaWiki wikis, like Wikipedia
+- [caire](https://github.com/esimov/caire) - Content aware image resize library
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

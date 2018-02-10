@@ -54,6 +54,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 - [heap_allocator](https://github.com/CCareaga/heap_allocator) - A simple heap memory allocator in ~200 lines.
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
+- [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 
 ### Go
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers

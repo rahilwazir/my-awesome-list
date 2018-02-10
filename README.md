@@ -81,6 +81,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [diagram](https://github.com/esimov/diagram) - CLI app to convert ascii arts into hand drawn diagrams.
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
+- [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

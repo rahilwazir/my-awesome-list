@@ -82,6 +82,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
+- [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -141,6 +142,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
 - [tiny-compiler](https://github.com/mgechev/tiny-compiler) - A tiny evaluator and transpiler of arithmetic expressions.
 - [tui.editor](https://github.com/nhnent/tui.editor) - :bread: :memo: Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [simple-peer](https://github.com/feross/simple-peer) - :satellite: Simple WebRTC video/voice and data channels 
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

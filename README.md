@@ -143,6 +143,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [tiny-compiler](https://github.com/mgechev/tiny-compiler) - A tiny evaluator and transpiler of arithmetic expressions.
 - [tui.editor](https://github.com/nhnent/tui.editor) - :bread: :memo: Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [simple-peer](https://github.com/feross/simple-peer) - :satellite: Simple WebRTC video/voice and data channels 
+- [RxJS](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

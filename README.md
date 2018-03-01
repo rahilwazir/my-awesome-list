@@ -83,6 +83,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
+- [go-cache](https://github.com/huntsman-li/go-cache) - This project encapsulates multiple db servers, redis, ledis, memcache, file, memory, nosql, postgresql
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -301,6 +302,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Hack a turned-off computer, or running unsigned code in Intel ME](https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine-wp.pdf)
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Eloquent JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - https://github.com/marijnh/Eloquent-JavaScript
+- [';--have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

@@ -312,3 +312,5 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [A Guide to Faster Web App I/O and Data Operations with Streams](https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/)
 - [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 - [Don't Use .dev For Development](https://iyware.com/dont-use-dev-for-development/)
+- [Get Started with ECMAScript 6](http://blog.teamtreehouse.com/get-started-ecmascript-6)
+- [Setting up a minimal Node environment with Webpack and Babel](https://dev.to/aurelkurtula/setting-up-a-minimal-node-environment-with-webpack-and-babel--1j04)

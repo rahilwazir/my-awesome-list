@@ -303,6 +303,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Eloquent JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - https://github.com/marijnh/Eloquent-JavaScript
 - [';--have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+- [leetcode.com](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

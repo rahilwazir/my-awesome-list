@@ -154,6 +154,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [PhantomJS](https://github.com/ariya/phantomjs)
 - [RunKit](https://runkit.com) - Node prototyping
 - [botkit](https://github.com/howdyai/botkit) - Botkit is the leading developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

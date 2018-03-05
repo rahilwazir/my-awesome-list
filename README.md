@@ -153,6 +153,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - Full-featured framework for building command line applications (cli)
 - [PhantomJS](https://github.com/ariya/phantomjs)
 - [RunKit](https://runkit.com) - Node prototyping
+- [botkit](https://github.com/howdyai/botkit) - Botkit is the leading developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

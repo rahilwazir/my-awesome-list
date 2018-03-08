@@ -84,6 +84,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
 - [go-cache](https://github.com/huntsman-li/go-cache) - This project encapsulates multiple db servers, redis, ledis, memcache, file, memory, nosql, postgresql
+- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -176,6 +177,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [redox](https://github.com/redox-os/redox) - A Rust Operating System
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant, gifquant?). Squeezes maximum possible quality from the awful GIF format
+- [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust
+- [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly
+- [rigrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 
 ## Bundlers
 - [parcel](https://github.com/parcel-bundler/parcel)
@@ -210,6 +215,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Run Program in Parallel](http://stackoverflow.com/q/3004811/2706988)
 - [StringTime Format](http://www.foragoodstrftime.com/)
 - [Iptables Tutorial](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
+- [Flathub](https://flathub.org/) - Flathub is a a growing collection of apps which can be easily installed on any Linux distribution.
+- [Polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux
 
 #### Fedora
 - [Core Windows Fonts](https://gist.github.com/rahilwazir/18c3bdfb72790d829b096f4e2dc02ef5)

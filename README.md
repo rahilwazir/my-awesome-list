@@ -14,6 +14,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Shell](#shell)
   - [Ruby](#ruby)
   - [Rust](#rust)
+- [Machine Learning](#machine-learning)
 - [Bundlers](#bundlers)
 - [Markup Languages](#markup-languages)
   - [HTML](#html)
@@ -181,6 +182,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly
 - [rigrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+
+## Machine Learning
+- [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
+- [Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
 
 ## Bundlers
 - [parcel](https://github.com/parcel-bundler/parcel)

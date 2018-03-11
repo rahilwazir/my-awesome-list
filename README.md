@@ -86,6 +86,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
 - [go-cache](https://github.com/huntsman-li/go-cache) - This project encapsulates multiple db servers, redis, ledis, memcache, file, memory, nosql, postgresql
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn go with tests
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

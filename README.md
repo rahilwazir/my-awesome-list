@@ -151,6 +151,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [RxJS](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

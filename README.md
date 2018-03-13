@@ -150,6 +150,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [simple-peer](https://github.com/feross/simple-peer) - :satellite: Simple WebRTC video/voice and data channels 
 - [RxJS](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

@@ -209,6 +209,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Intro to Binary, Hex and more](https://code.tutsplus.com/articles/number-systems-an-introduction-to-binary-hexadecimal-and-more--active-10848)
 - [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 - [ASCII Table](http://www.asciitable.com/)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-9.html)
 
 ### Linux
 - [A little bit about a linux kernel](https://github.com/0xAX/linux-insides)

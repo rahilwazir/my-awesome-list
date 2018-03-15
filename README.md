@@ -333,3 +333,4 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Don't Use .dev For Development](https://iyware.com/dont-use-dev-for-development/)
 - [Get Started with ECMAScript 6](http://blog.teamtreehouse.com/get-started-ecmascript-6)
 - [Setting up a minimal Node environment with Webpack and Babel](https://dev.to/aurelkurtula/setting-up-a-minimal-node-environment-with-webpack-and-babel--1j04)
+- [How to submit a package to PyPI](http://peterdowns.com/posts/first-time-with-pypi.html)

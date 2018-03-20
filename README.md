@@ -118,6 +118,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [wp-sec](https://github.com/markri/wp-sec) - Wp-sec is an exentsion for wp-cli which checks for Wordpress CVE security issues at wpvulndb.com
 - [wp-installer](https://github.com/mattgrshaw/wp-installer) - Simple commands for managing local WordPress sites
 - [db-checkpoint](https://github.com/binarygary/db-checkpoint) - Adds a new command to WP-CLI so you can treat your DB like a save point in a video game.
+- [Faster Ajax For WordPress](https://coderwall.com/p/of7y2q/faster-ajax-for-wordpress)
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip
@@ -204,6 +205,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### CSS
 - [vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [CSS Icons](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 
 ## Operating Systems
 

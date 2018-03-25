@@ -88,6 +88,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [go-cache](https://github.com/huntsman-li/go-cache) - This project encapsulates multiple db servers, redis, ledis, memcache, file, memory, nosql, postgresql
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn go with tests
+- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

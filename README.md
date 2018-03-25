@@ -89,6 +89,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn go with tests
 - [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [bimg](https://github.com/h2non/bimg) - Small Go package for fast high-level image processing powered by libvips C library
+- [imaginary](https://github.com/h2non/imaginary) - Fast, simple, horizontally scalable HTTP microservice for high-level image processing with first-class Docker support
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

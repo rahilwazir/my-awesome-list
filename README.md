@@ -57,6 +57,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
+- [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs.
 
 ### Go
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers

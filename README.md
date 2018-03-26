@@ -236,6 +236,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Iptables Tutorial](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
 - [Flathub](https://flathub.org/) - Flathub is a a growing collection of apps which can be easily installed on any Linux distribution.
 - [Polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux
+- [obs-studio](https://github.com/obsproject/obs-studio) - OBS - Free and open source software for live streaming and screen recording
+- [vokoscreen](https://github.com/vkohaupt/vokoscreen) - vokoscreen is an easy to use screencast creator to record educational videos, live recordings of browser, installation, videoconferences, etc
+- [ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 
 #### Fedora
 - [Core Windows Fonts](https://gist.github.com/rahilwazir/18c3bdfb72790d829b096f4e2dc02ef5)

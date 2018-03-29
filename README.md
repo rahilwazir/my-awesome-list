@@ -161,6 +161,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [pell.js](https://github.com/jaredreich/pell) - :memo: the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player
+- [popmotion](https://github.com/popmotion/popmotion) - A functional, reactive animation library.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

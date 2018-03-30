@@ -15,6 +15,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Ruby](#ruby)
   - [Rust](#rust)
 - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
 - [Bundlers](#bundlers)
 - [Markup Languages](#markup-languages)
   - [HTML](#html)
@@ -199,6 +200,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ## Machine Learning
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
+
+### Deep Learning
+- [RL-Adventure](https://github.com/higgsfield/RL-Adventure) - Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code
 
 ## Bundlers
 - [parcel](https://github.com/parcel-bundler/parcel)

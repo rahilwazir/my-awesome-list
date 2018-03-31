@@ -163,6 +163,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [pell.js](https://github.com/jaredreich/pell) - :memo: the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player
 - [popmotion](https://github.com/popmotion/popmotion) - A functional, reactive animation library.
+- [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

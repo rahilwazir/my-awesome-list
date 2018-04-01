@@ -245,6 +245,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS - Free and open source software for live streaming and screen recording
 - [vokoscreen](https://github.com/vkohaupt/vokoscreen) - vokoscreen is an easy to use screencast creator to record educational videos, live recordings of browser, installation, videoconferences, etc
 - [ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
+- [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 #### Fedora
 - [Core Windows Fonts](https://gist.github.com/rahilwazir/18c3bdfb72790d829b096f4e2dc02ef5)

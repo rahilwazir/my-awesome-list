@@ -166,6 +166,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [popmotion](https://github.com/popmotion/popmotion) - A functional, reactive animation library.
 - [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [date-fns](https://github.com/date-fns/date-fns) - :hourglass_flowing_sand: Modern JavaScript date utility library :hourglass_flowing_sand:
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

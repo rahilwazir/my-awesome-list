@@ -176,6 +176,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [botkit](https://github.com/howdyai/botkit) - Botkit is the leading developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
+- [dat](https://github.com/datproject/dat) - :floppy_disk: Share & live sync files anywhere via command line
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

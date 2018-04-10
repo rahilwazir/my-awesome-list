@@ -5,7 +5,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 - [Programming Languages](#programming-languages)
   - [C](#c)
-  - [C++](#c++)
+  - [C++](#c-1)
   - [Go](#go)
   - [Python](#python)
   - [PHP](#php)

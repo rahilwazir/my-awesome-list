@@ -5,6 +5,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 - [Programming Languages](#programming-languages)
   - [C](#c)
+  - [C++](#c++)
   - [Go](#go)
   - [Python](#python)
   - [PHP](#php)
@@ -59,6 +60,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs.
+
+### C++
+- [yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 
 ### Go
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers

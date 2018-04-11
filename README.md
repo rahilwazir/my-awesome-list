@@ -257,6 +257,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface
+- [gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 
 #### Fedora
 - [Core Windows Fonts](https://gist.github.com/rahilwazir/18c3bdfb72790d829b096f4e2dc02ef5)

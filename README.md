@@ -172,6 +172,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [date-fns](https://github.com/date-fns/date-fns) - :hourglass_flowing_sand: Modern JavaScript date utility library :hourglass_flowing_sand:
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [dayjs](https://github.com/xx45/dayjs) - :alarm_clock: Fast 2KB date library alternative to Moment.js with the same modern API
+- [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
@@ -227,6 +229,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [CSS Icons](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
+- [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 
 ## Operating Systems
 

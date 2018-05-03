@@ -128,6 +128,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [WPGlobus](https://wordpress.org/plugins/wpglobus) – Multilingual Everything!
 - [WP Premium Plugins](https://github.com/wp-premium) - Premium WordPress plugins and themes synchronized to GitHub.
 - [wp-sec](https://github.com/markri/wp-sec) - Wp-sec is an exentsion for wp-cli which checks for Wordpress CVE security issues at wpvulndb.com
+- [wp-vulnerability-scanner](https://github.com/10up/wp-vulnerability-scanner) - WP-CLI command for checking installed plugins and themes for vulnerabilities reported on wpvulndb.com
 - [wp-installer](https://github.com/mattgrshaw/wp-installer) - Simple commands for managing local WordPress sites
 - [db-checkpoint](https://github.com/binarygary/db-checkpoint) - Adds a new command to WP-CLI so you can treat your DB like a save point in a video game.
 - [Faster Ajax For WordPress](https://coderwall.com/p/of7y2q/faster-ajax-for-wordpress)

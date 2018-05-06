@@ -212,6 +212,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly
 - [rigrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
 
 ## Machine Learning
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning

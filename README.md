@@ -222,7 +222,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [RL-Adventure](https://github.com/higgsfield/RL-Adventure) - Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code
 
 ## Bundlers
-- [parcel](https://github.com/parcel-bundler/parcel)
+- [parcel](https://github.com/parcel-bundler/parcel) - :package: :rocket: Blazing fast, zero configuration web application bundler 
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets.
+- [microbundle](https://github.com/developit/microbundle) - :package: Zero-configuration bundler for tiny modules
 
 ## Licenses
 - [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)

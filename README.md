@@ -40,6 +40,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Apache](#apache)
   - [Nginx](#nginx)
   - [HTTP](#http)
+  - [Monitoring Tools](#monitoring-tools)
 - [Applications](#applications)
   - [CLI](#cli)
   - [Web](#web)
@@ -315,6 +316,13 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### HTTP
 - [Caching](https://blog.fortrabbit.com/mastering-http-caching)
+
+### Monitoring Tools
+- [mytop](http://jeremy.zawodny.com/mysql/mytop/) - 
+mytop is a console-based (non-gui) tool for monitoring the threads and overall performance of a MySQL
+- [atop](https://www.atoptool.nl/index.php) - Capable of reporting the activity of all processes (even if processes have finished during the interval)
+- [tcpdump](http://www.tcpdump.org/) - Powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture.
+- [more...](https://blog.serverdensity.com/80-linux-monitoring-tools-know/)
 
 ## Applications
 

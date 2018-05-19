@@ -188,6 +188,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [dat](https://github.com/datproject/dat) - :floppy_disk: Share & live sync files anywhere via command line
+- [signale](https://github.com/klauscfhq/signale) - :wave: Hackable console logger
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

@@ -61,6 +61,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs.
+- [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports
 
 ### C++
 - [yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
@@ -178,6 +179,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [dayjs](https://github.com/xx45/dayjs) - :alarm_clock: Fast 2KB date library alternative to Moment.js with the same modern API
 - [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
+- [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js. 
+- [signale](https://github.com/klauscfhq/signale) - :wave: Hackable console logger
+- [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
@@ -216,6 +220,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [rigrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
+- [xi-editor](https://github.com/google/xi-editor) - A modern editor with a backend written in Rust
 
 ## Machine Learning
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning

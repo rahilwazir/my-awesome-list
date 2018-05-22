@@ -221,6 +221,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [xi-editor](https://github.com/google/xi-editor) - A modern editor with a backend written in Rust
+- [alacritty](https://github.com/jwilm/alacritty) -  A cross-platform, GPU-accelerated terminal emulator
 
 ## Machine Learning
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning

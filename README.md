@@ -46,6 +46,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Web](#web)
   - [Desktop](#desktop)
 - [Networking](#networking)
+- [Security](#security)
 - [Cryptocurrency](#cryptocurrency)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
@@ -340,6 +341,9 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 
 ## Networking
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147)
+
+## Security
+- [radare2](https://github.com/radare/radare2) - unix-like reverse engineering framework and commandline tools security
 
 ## Cryptocurrency
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree

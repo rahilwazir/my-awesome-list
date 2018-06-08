@@ -183,6 +183,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js. 
 - [signale](https://github.com/klauscfhq/signale) - :wave: Hackable console logger
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies
+- [pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

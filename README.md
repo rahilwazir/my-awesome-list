@@ -386,6 +386,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [';--have i been pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 - [leetcode.com](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Progressive web apps](https://developer.mozilla.org/en-US/Apps/Progressive)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

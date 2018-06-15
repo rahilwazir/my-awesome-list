@@ -102,6 +102,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [imaginary](https://github.com/h2non/imaginary) - Fast, simple, horizontally scalable HTTP microservice for high-level image processing with first-class Docker support
 - [tunnel](https://github.com/labstack/tunnel) - Expose local servers to internet securely
 - [bed](https://github.com/itchyny/bed) - Binary editor written in Go
+- [usql](usql) - universal command-line interface for SQL databases
+- [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

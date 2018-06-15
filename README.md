@@ -103,7 +103,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [tunnel](https://github.com/labstack/tunnel) - Expose local servers to internet securely
 - [bed](https://github.com/itchyny/bed) - Binary editor written in Go
 - [usql](usql) - universal command-line interface for SQL databases
-- [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -186,6 +185,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [signale](https://github.com/klauscfhq/signale) - :wave: Hackable console logger
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies
 - [pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp
+- [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

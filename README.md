@@ -208,6 +208,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display
 - [Guake](https://github.com/Guake/guake/)
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - :book: A collection of pure bash alternatives to external processes.
 
 ### Ruby
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator)

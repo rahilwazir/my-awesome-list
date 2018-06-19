@@ -138,6 +138,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [checksum-command](https://github.com/wp-cli/checksum-command) - Verifies file integrity by comparing to published checksums.
 - [config-command](https://github.com/wp-cli/config-command) - Generates and reads the wp-config.php file.
 - [Faster Ajax For WordPress](https://coderwall.com/p/of7y2q/faster-ajax-for-wordpress)
+- [wp-tools](https://github.com/bluehost/wp-tools) - Tools to backup and upgrade WordPress installations
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

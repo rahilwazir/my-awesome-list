@@ -187,6 +187,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies
 - [pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp
 - [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
+- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library
+- [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

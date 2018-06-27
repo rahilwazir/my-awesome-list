@@ -394,6 +394,8 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [leetcode.com](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Progressive web apps](https://developer.mozilla.org/en-US/Apps/Progressive)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [dribble](https://dribbble.com/colors/104891) - Find designs by color
+- [color-wheel](https://color.adobe.com/create/color-wheel/) - Adobe color wheel
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

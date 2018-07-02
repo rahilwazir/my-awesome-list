@@ -352,6 +352,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## Security
 - [radare2](https://github.com/radare/radare2) - unix-like reverse engineering framework and commandline tools security
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Free website malware and security scanner
+- [Maldet](https://www.rfxn.com/projects/linux-malware-detect/) - Linux Malware Detect (LMD) is a malware scanner for Linux
 
 ## Cryptocurrency
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree

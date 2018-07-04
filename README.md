@@ -285,6 +285,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface
 - [gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
+- [Clone Linux](http://positon.org/clone-a-linux-system-install-to-another-computer) - Clone a Linux system install to another computer
 
 #### Fedora
 - [Core Windows Fonts](https://gist.github.com/rahilwazir/18c3bdfb72790d829b096f4e2dc02ef5)

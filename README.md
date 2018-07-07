@@ -401,6 +401,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [dribble](https://dribbble.com/colors/104891) - Find designs by color
 - [color-wheel](https://color.adobe.com/create/color-wheel/) - Adobe color wheel
+- [language-list](https://github.com/umpirsky/language-list) - List of all languages with names and ISO 639-1 codes in all languages and all data formats
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

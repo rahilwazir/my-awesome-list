@@ -202,6 +202,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [dat](https://github.com/datproject/dat) - :floppy_disk: Share & live sync files anywhere via command line
 - [signale](https://github.com/klauscfhq/signale) - :wave: Hackable console logger
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

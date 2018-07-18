@@ -105,6 +105,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [usql](https://github.com/xo/usql) - universal command-line interface for SQL databases
 - [httpu](https://github.com/hazbo/httpu) - The terminal-first http client
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like
+- [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

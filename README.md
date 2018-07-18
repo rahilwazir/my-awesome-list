@@ -388,7 +388,6 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 
 ## Useful Resources
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Learn (ANY) language in Y minutes
-- [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
 - [Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology
 - [Codelab - Beat the hackers](https://google-gruyere.appspot.com/)
@@ -406,7 +405,8 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [dribble](https://dribbble.com/colors/104891) - Find designs by color
 - [color-wheel](https://color.adobe.com/create/color-wheel/) - Adobe color wheel
 - [language-list](https://github.com/umpirsky/language-list) - List of all languages with names and ISO 639-1 codes in all languages and all data formats
-- [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
+- [serveo](https://serveo.net) - Expose local servers to the internet
+- [ultrahook](http://www.ultrahook.com) - Receive webhooks on localhost
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)
@@ -419,3 +419,5 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Get Started with ECMAScript 6](http://blog.teamtreehouse.com/get-started-ecmascript-6)
 - [Setting up a minimal Node environment with Webpack and Babel](https://dev.to/aurelkurtula/setting-up-a-minimal-node-environment-with-webpack-and-babel--1j04)
 - [How to submit a package to PyPI](http://peterdowns.com/posts/first-time-with-pypi.html)
+- [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
+- [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)

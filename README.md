@@ -195,6 +195,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library
 - [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies
 - [choo](https://github.com/choojs/choo) - :steam_locomotive: :train: - sturdy 4kb frontend framework
+- [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding grapesjs.com
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

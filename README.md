@@ -196,6 +196,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies
 - [choo](https://github.com/choojs/choo) - :steam_locomotive: :train: - sturdy 4kb frontend framework
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding grapesjs.com
+- [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

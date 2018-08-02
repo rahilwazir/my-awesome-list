@@ -197,7 +197,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [choo](https://github.com/choojs/choo) - :steam_locomotive: :train: - sturdy 4kb frontend framework
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding grapesjs.com
 - [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
-- [gatsby](https://github.com/gatsbyjs/gatsby) - :atom_symbol: :page_facing_uprocket: Blazing fast site generator for React
+- [gatsby](https://github.com/gatsbyjs/gatsby) - :atom_symbol: :page_facing_up: :rocket: Blazing fast site generator for React
 - [next.js](https://github.com/zeit/next.js/) - Next.js is a lightweight framework for static and server‑rendered applications.
 
 ### NodeJS

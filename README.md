@@ -199,6 +199,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 - [gatsby](https://github.com/gatsbyjs/gatsby) - :atom_symbol: :page_facing_up: :rocket: Blazing fast site generator for React
 - [next.js](https://github.com/zeit/next.js/) - Next.js is a lightweight framework for static and server‑rendered applications.
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Clean and Modern SVG Charts
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

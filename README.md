@@ -200,6 +200,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [gatsby](https://github.com/gatsbyjs/gatsby) - :atom_symbol: :page_facing_up: :rocket: Blazing fast site generator for React
 - [next.js](https://github.com/zeit/next.js/) - Next.js is a lightweight framework for static and server‑rendered applications.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Clean and Modern SVG Charts
+- [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

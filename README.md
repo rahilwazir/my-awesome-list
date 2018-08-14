@@ -201,6 +201,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [next.js](https://github.com/zeit/next.js/) - Next.js is a lightweight framework for static and server‑rendered applications.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Clean and Modern SVG Charts
 - [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
+- [filepond](https://github.com/pqina/filepond) - :ocean: A flexible and fun JavaScript file upload library
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

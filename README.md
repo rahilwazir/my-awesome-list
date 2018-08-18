@@ -106,6 +106,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [httpu](https://github.com/hazbo/httpu) - The terminal-first http client
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

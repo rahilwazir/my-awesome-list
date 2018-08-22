@@ -122,6 +122,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP 
 - [php-malware-finder](https://github.com/nbs-system/php-malware-finder) - Detect potentially malicious PHP files
+- [php-vips](https://github.com/jcupitt/php-vips) - php binding for libvips
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations

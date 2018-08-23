@@ -107,6 +107,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

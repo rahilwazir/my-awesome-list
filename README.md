@@ -209,6 +209,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [filepond](https://github.com/pqina/filepond) - :ocean: A flexible and fun JavaScript file upload library
 - [nanoid](https://github.com/ai/nanoid) - A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

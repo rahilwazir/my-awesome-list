@@ -150,6 +150,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [\_s](https://github.com/automattic/_s) - Hi. I'm a starter theme called \_s, or underscores, if you like.
 - [burp_wp](https://github.com/kacperszurek/burp_wp) - Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp
 - [versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
+- [stream](https://github.com/xwp/stream) - Stream plugin for WordPress
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

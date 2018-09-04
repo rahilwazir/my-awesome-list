@@ -211,6 +211,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [filepond](https://github.com/pqina/filepond) - :ocean: A flexible and fun JavaScript file upload library
 - [nanoid](https://github.com/ai/nanoid) - A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
+- [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

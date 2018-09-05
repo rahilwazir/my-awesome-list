@@ -277,6 +277,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [CSS Icons](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
+- [materialize](https://github.com/dogfalo/materialize/) - Materialize, a CSS Framework based on Material Design
 
 ## Operating Systems
 

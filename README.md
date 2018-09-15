@@ -226,6 +226,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [signale](https://github.com/klauscfhq/signale) - :wave: Hackable console logger
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+- [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)
@@ -241,6 +242,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Ruby
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator)
+- [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker
 
 ### Rust
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. 
@@ -401,6 +403,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
 - [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, compton, vim, tmux, and zsh
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

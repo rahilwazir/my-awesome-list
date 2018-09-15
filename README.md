@@ -316,6 +316,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [Clone Linux](http://positon.org/clone-a-linux-system-install-to-another-computer) - Clone a Linux system install to another computer
 - [distrotest](https://distrotest.net/) - Test any linux operating system online
+- [gnome-pomodoro](https://github.com/codito/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 
 #### Fedora
 - [Core Windows Fonts](https://gist.github.com/rahilwazir/18c3bdfb72790d829b096f4e2dc02ef5)

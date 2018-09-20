@@ -438,6 +438,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [language-list](https://github.com/umpirsky/language-list) - List of all languages with names and ISO 639-1 codes in all languages and all data formats
 - [serveo](https://serveo.net) - Expose local servers to the internet
 - [ultrahook](http://www.ultrahook.com) - Receive webhooks on localhost
+- [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

@@ -241,6 +241,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display
 - [Guake](https://github.com/Guake/guake/)
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - :book: A collection of pure bash alternatives to external processes.
+- [z](https://github.com/rupa/z) - jump around
 
 ### Ruby
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator)

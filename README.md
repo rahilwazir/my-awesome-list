@@ -215,6 +215,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - GreenSock's GSAP JavaScript animation library (including Draggable)
 - [workbox](https://github.com/GoogleChrome/workbox) - Workbox is a collection of JavaScript libraries for Progressive Web Apps
+- [rxdb](https://github.com/pubkey/rxdb) - :computer: :iphone: A realtime Database for the Web
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
@@ -285,6 +286,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [CSS Icons](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [materialize](https://github.com/dogfalo/materialize/) - Materialize, a CSS Framework based on Material Design
+- [vapid](https://github.com/vapid/vapid) - A template-driven content management system
 
 ## Operating Systems
 

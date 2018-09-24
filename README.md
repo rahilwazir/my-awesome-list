@@ -215,6 +215,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - GreenSock's GSAP JavaScript animation library (including Draggable)
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: :iphone: A realtime Database for the Web
+- [imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript
+- [node-potrace](https://github.com/tooolbox/node-potrace) - JavaScript port of Potrace, for NodeJS 
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

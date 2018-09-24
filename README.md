@@ -214,7 +214,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - GreenSock's GSAP JavaScript animation library (including Draggable)
-- [workbox](https://github.com/GoogleChrome/workbox) - Workbox is a collection of JavaScript libraries for Progressive Web Apps
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: :iphone: A realtime Database for the Web
 
 ### NodeJS

@@ -67,6 +67,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### C++
 - [yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
+- [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
 ### Go
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers

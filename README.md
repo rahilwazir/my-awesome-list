@@ -218,6 +218,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: :iphone: A realtime Database for the Web
 - [imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript
 - [node-potrace](https://github.com/tooolbox/node-potrace) - JavaScript port of Potrace, for NodeJS 
+- [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
@@ -232,6 +233,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more
+- [apify-js](https://github.com/apifytech/apify-js) - The scalable web crawling and scraping library for JavaScript
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

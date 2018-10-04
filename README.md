@@ -219,6 +219,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript
 - [node-potrace](https://github.com/tooolbox/node-potrace) - JavaScript port of Potrace, for NodeJS 
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+- [tui.image-editor](https://github.com/nhnent/tui.image-editor) - :bread: :art: Full-featured photo image editor using canvas. It is really easy, and it comes with great filters
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

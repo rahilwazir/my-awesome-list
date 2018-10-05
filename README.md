@@ -15,6 +15,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Shell](#shell)
   - [Ruby](#ruby)
   - [Rust](#rust)
+- [SQL](#sql)
 - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
 - [Bundlers](#bundlers)
@@ -267,6 +268,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [xi-editor](https://github.com/google/xi-editor) - A modern editor with a backend written in Rust
 - [alacritty](https://github.com/jwilm/alacritty) -  A cross-platform, GPU-accelerated terminal emulator
+
+## SQL
+- [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them
 
 ## Machine Learning
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning

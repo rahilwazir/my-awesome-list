@@ -238,6 +238,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [apify-js](https://github.com/apifytech/apify-js) - The scalable web crawling and scraping library for JavaScript
+- [strapi](https://github.com/strapi/strapi) - :rocket: Node.js Content Management Framework (headless-CMS) to build powerful API with no effort
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

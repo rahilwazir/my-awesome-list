@@ -223,6 +223,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [tui.image-editor](https://github.com/nhnent/tui.image-editor) - :bread: :art: Full-featured photo image editor using canvas. It is really easy, and it comes with great filters
 - [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
+- [tiptap](https://github.com/heyscrumpy/tiptap) - A rich-text editor for Vue.js
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

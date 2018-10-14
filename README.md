@@ -122,6 +122,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [fbs](https://github.com/mherrmann/fbs) - Create cross-platform desktop apps in minutes, not months
 - [15-minute-apps](https://github.com/mfitzp/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 - [click](https://github.com/pallets/click) - Python composable command line utility
+- [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

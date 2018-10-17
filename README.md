@@ -53,6 +53,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
+- [Email Marketing Solutions](#email-marketing-solutions)
 
 ## Programming Languages
 
@@ -471,3 +472,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [How to submit a package to PyPI](http://peterdowns.com/posts/first-time-with-pypi.html)
 - [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
 - [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+
+## Email Marketing Solutions
+- [mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
+- [MoonMail](https://github.com/mautic/mautic) - Shoot billions of emails using AWS - SES - Lambda

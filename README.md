@@ -429,6 +429,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, compton, vim, tmux, and zsh
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc.
 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

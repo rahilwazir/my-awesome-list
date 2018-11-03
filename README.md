@@ -227,6 +227,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [tiptap](https://github.com/heyscrumpy/tiptap) - A rich-text editor for Vue.js
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
+- [GreenSock-JS](https://github.com/greensock/GreenSock-JS/) - GreenSock's GSAP JavaScript animation library (including Draggable)
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

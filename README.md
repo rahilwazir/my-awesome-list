@@ -304,6 +304,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [materialize](https://github.com/dogfalo/materialize/) - Materialize, a CSS Framework based on Material Design
 - [vapid](https://github.com/vapid/vapid) - A template-driven content management system
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 
 ## Operating Systems
 

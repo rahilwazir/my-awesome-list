@@ -385,6 +385,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [.htaccess tester](http://htaccess.mwl.be/)
 
 ### Nginx
+- [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) - :gear: NGiИX config generator generator on steroids :syringe:
 
 ### HTTP
 - [Caching](https://blog.fortrabbit.com/mastering-http-caching)

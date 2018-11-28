@@ -229,6 +229,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [tiptap](https://github.com/heyscrumpy/tiptap) - A rich-text editor for Vue.js
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
 - [GreenSock-JS](https://github.com/greensock/GreenSock-JS/) - GreenSock's GSAP JavaScript animation library (including Draggable)
+- [later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

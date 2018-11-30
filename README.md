@@ -232,6 +232,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them
 - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions
+- [zepto](https://github.com/madrobby/zepto/) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

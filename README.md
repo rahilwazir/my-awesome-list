@@ -125,12 +125,14 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [15-minute-apps](https://github.com/mfitzp/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 - [click](https://github.com/pallets/click) - Python composable command line utility
 - [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference
+- [bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP 
 - [php-malware-finder](https://github.com/nbs-system/php-malware-finder) - Detect potentially malicious PHP files
 - [php-vips](https://github.com/jcupitt/php-vips) - php binding for libvips
+- [pimcore](https://github.com/pimcore/pimcore) - The leading enterprise platform for CMS/CMF, MDM, PIM, DAM and E-Commerce
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations

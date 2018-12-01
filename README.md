@@ -235,6 +235,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions
 - [zepto](https://github.com/madrobby/zepto/) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
+- [sticky](https://github.com/garand/sticky) - jQuery Plugin for Sticky Objects
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

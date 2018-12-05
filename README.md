@@ -133,6 +133,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [php-malware-finder](https://github.com/nbs-system/php-malware-finder) - Detect potentially malicious PHP files
 - [php-vips](https://github.com/jcupitt/php-vips) - php binding for libvips
 - [pimcore](https://github.com/pimcore/pimcore) - The leading enterprise platform for CMS/CMF, MDM, PIM, DAM and E-Commerce
+- [psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations

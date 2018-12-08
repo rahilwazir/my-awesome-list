@@ -126,6 +126,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [click](https://github.com/pallets/click) - Python composable command line utility
 - [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference
 - [bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
@@ -239,6 +240,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [sticky](https://github.com/garand/sticky) - jQuery Plugin for Sticky Objects
 - [tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities
+- [jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

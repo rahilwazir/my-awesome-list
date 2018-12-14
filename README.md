@@ -243,7 +243,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-
+- [guess](https://github.com/guess-js/guess) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - Full-featured framework for building command line applications (cli)

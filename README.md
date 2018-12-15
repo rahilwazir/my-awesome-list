@@ -244,6 +244,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [guess](https://github.com/guess-js/guess) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+- [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
+- [webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
+
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - Full-featured framework for building command line applications (cli)

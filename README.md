@@ -11,6 +11,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [PHP](#php)
     - [WordPress](#wordpress)
   - [JavaScript](#javascript)
+    - [jQuery](#jquery)
   - [NodeJS](#nodejs)
   - [Shell](#shell)
   - [Ruby](#ruby)
@@ -247,6 +248,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
 - [webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
+
+#### jQuery
+- [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

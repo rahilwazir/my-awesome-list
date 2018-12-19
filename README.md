@@ -494,6 +494,8 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Alpha Vantage](https://www.alphavantage.co/) - Free APIs for Realtime and Historical Stock, Forex (FX), Cryptocurrency Data, Technical Analysis, Charting, and More!
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
 - [web.dev](https://web.dev/) - Let's build the future of the web.
+- [paletton](http://paletton.com) - The Color Scheme Designer
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - Adobe Color CC
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

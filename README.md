@@ -51,6 +51,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Networking](#networking)
 - [Security](#security)
 - [Cryptocurrency](#cryptocurrency)
+- [Design](#design)
+  - [Wireframes](#wireframes)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
@@ -448,6 +450,15 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Coinbase](https://www.coinbase.com/)
 - [CoinGate](https://coingate.com/)
 
+## Design
+
+### Wireframes
+ - [MockFlow](https://mockflow.com) - The quickest way to brainstorm user interface ideas 
+ - [moqups](https://moqups.com) - Shape Your Ideas. Prove Your Concept
+ - [Figma](https://www.figma.com) - Turn Ideas Into Products Faster
+ - [Pencil](http://pencil.evolus.vn) - An open-source GUI prototyping tool that's available for ALL platforms. 
+ - [Pidoco](https://pidoco.com) - Pidoco. Your wireframing tool
+ 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!

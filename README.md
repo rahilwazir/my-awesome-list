@@ -253,6 +253,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
 - [preact](https://github.com/developit/preact) - :atom_symbol: Fast 3kB React alternative with the same modern API. Components & Virtual DOM
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support
+- [brain.js](https://github.com/BrainJS/brain.js) - :robot: Neural networks in JavaScript
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal
@@ -305,6 +306,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [xi-editor](https://github.com/google/xi-editor) - A modern editor with a backend written in Rust
 - [alacritty](https://github.com/jwilm/alacritty) -  A cross-platform, GPU-accelerated terminal emulator
 - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
+- [swc](https://github.com/swc-project/swc) - Super-fast alternative for babel
 
 ## SQL
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them

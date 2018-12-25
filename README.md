@@ -254,6 +254,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [preact](https://github.com/developit/preact) - :atom_symbol: Fast 3kB React alternative with the same modern API. Components & Virtual DOM
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support
 - [brain.js](https://github.com/BrainJS/brain.js) - :robot: Neural networks in JavaScript
+- [Magic-Grid](https://github.com/e-oj/Magic-Grid) - A simple, lightweight Javascript library for dynamic grid layouts
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

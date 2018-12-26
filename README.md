@@ -52,6 +52,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Security](#security)
 - [Cryptocurrency](#cryptocurrency)
 - [Design](#design)
+  - [UI](#ui)
   - [Wireframes](#wireframes)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
@@ -484,7 +485,8 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc.
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :dizzy: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
-
+ - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - :cd: Free software that works great, and also happens to be open-source Python
+ 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)
 - [Unicode character table](https://unicode-table.com/en/)

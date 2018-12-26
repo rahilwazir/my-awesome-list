@@ -457,13 +457,19 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 
 ## Design
 
+### UI
+  - [bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox
+  - [ant-design](https://github.com/ant-design/ant-design) - :ant: A UI Design Language
+  - [Material Design](https://material.io/) - Make beautiful products, faster
+  - [Fluent Design](https://www.microsoft.com/design/fluent/) - Microsoft Fluent Design System
+  
 ### Wireframes
  - [MockFlow](https://mockflow.com) - The quickest way to brainstorm user interface ideas 
  - [moqups](https://moqups.com) - Shape Your Ideas. Prove Your Concept
  - [Figma](https://www.figma.com) - Turn Ideas Into Products Faster
  - [Pencil](http://pencil.evolus.vn) - An open-source GUI prototyping tool that's available for ALL platforms. 
  - [Pidoco](https://pidoco.com) - Pidoco. Your wireframing tool
- 
+
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!

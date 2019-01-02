@@ -166,6 +166,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [burp_wp](https://github.com/kacperszurek/burp_wp) - Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp
 - [versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [stream](https://github.com/xwp/stream) - Stream plugin for WordPress
+- [Tonik](https://github.com/tonik/theme) - Tonik is a WordPress Starter Theme which aims to modernize, organize and enhance some aspects of WordPress theme development
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

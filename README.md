@@ -257,6 +257,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support
 - [brain.js](https://github.com/BrainJS/brain.js) - :robot: Neural networks in JavaScript
 - [Magic-Grid](https://github.com/e-oj/Magic-Grid) - A simple, lightweight Javascript library for dynamic grid layouts
+- [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

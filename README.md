@@ -462,17 +462,20 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## Design
 
 ### UI
-  - [bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox
-  - [ant-design](https://github.com/ant-design/ant-design) - :ant: A UI Design Language
-  - [Material Design](https://material.io/) - Make beautiful products, faster
-  - [Fluent Design](https://www.microsoft.com/design/fluent/) - Microsoft Fluent Design System
+- [bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox
+- [ant-design](https://github.com/ant-design/ant-design) - :ant: A UI Design Language
+- [Material Design](https://material.io/) - Make beautiful products, faster
+- [Fluent Design](https://www.microsoft.com/design/fluent/) - Microsoft Fluent Design System
   
 ### Wireframes
- - [MockFlow](https://mockflow.com) - The quickest way to brainstorm user interface ideas 
- - [moqups](https://moqups.com) - Shape Your Ideas. Prove Your Concept
- - [Figma](https://www.figma.com) - Turn Ideas Into Products Faster
- - [Pencil](http://pencil.evolus.vn) - An open-source GUI prototyping tool that's available for ALL platforms. 
- - [Pidoco](https://pidoco.com) - Pidoco. Your wireframing tool
+- [MockFlow](https://mockflow.com) - The quickest way to brainstorm user interface ideas 
+- [moqups](https://moqups.com) - Shape Your Ideas. Prove Your Concept
+- [Figma](https://www.figma.com) - Turn Ideas Into Products Faster
+- [Pencil](http://pencil.evolus.vn) - An open-source GUI prototyping tool that's available for ALL platforms. 
+- [Pidoco](https://pidoco.com) - Pidoco. Your wireframing tool
+
+### Photo Editor
+- [Photopea](https://www.photopea.com/) - Online Image Editor
 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
@@ -488,7 +491,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc.
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :dizzy: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
- - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - :cd: Free software that works great, and also happens to be open-source Python
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - :cd: Free software that works great, and also happens to be open-source Python
  
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

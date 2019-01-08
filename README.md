@@ -54,6 +54,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Design](#design)
   - [UI](#ui)
   - [Wireframes](#wireframes)
+  - [Photo Editors](#photo-editors)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
@@ -474,7 +475,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Pencil](http://pencil.evolus.vn) - An open-source GUI prototyping tool that's available for ALL platforms. 
 - [Pidoco](https://pidoco.com) - Pidoco. Your wireframing tool
 
-### Photo Editor
+### Photo Editors
 - [Photopea](https://www.photopea.com/) - Online Image Editor
 
 ## Curated Lists

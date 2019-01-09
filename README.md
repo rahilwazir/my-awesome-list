@@ -467,7 +467,10 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [ant-design](https://github.com/ant-design/ant-design) - :ant: A UI Design Language
 - [Material Design](https://material.io/) - Make beautiful products, faster
 - [Fluent Design](https://www.microsoft.com/design/fluent/) - Microsoft Fluent Design System
-  
+- [web.dev](https://web.dev/) - Let's build the future of the web.
+- [paletton](http://paletton.com) - The Color Scheme Designer
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - Adobe Color CC
+
 ### Wireframes
 - [MockFlow](https://mockflow.com) - The quickest way to brainstorm user interface ideas 
 - [moqups](https://moqups.com) - Shape Your Ideas. Prove Your Concept
@@ -493,7 +496,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :dizzy: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - :cd: Free software that works great, and also happens to be open-source Python
- 
+
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)
 - [Unicode character table](https://unicode-table.com/en/)
@@ -524,9 +527,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [Alpha Vantage](https://www.alphavantage.co/) - Free APIs for Realtime and Historical Stock, Forex (FX), Cryptocurrency Data, Technical Analysis, Charting, and More!
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
-- [web.dev](https://web.dev/) - Let's build the future of the web.
-- [paletton](http://paletton.com) - The Color Scheme Designer
-- [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - Adobe Color CC
+- [mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

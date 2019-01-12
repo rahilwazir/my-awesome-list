@@ -260,6 +260,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Magic-Grid](https://github.com/e-oj/Magic-Grid) - A simple, lightweight Javascript library for dynamic grid layouts
 - [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 - [jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
+- [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal
@@ -313,6 +314,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [alacritty](https://github.com/jwilm/alacritty) -  A cross-platform, GPU-accelerated terminal emulator
 - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [swc](https://github.com/swc-project/swc) - Super-fast alternative for babel
+- [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 
 ## SQL
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them

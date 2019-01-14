@@ -261,6 +261,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 - [jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

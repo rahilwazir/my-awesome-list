@@ -168,6 +168,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [stream](https://github.com/xwp/stream) - Stream plugin for WordPress
 - [Tonik](https://github.com/tonik/theme) - Tonik is a WordPress Starter Theme which aims to modernize, organize and enhance some aspects of WordPress theme development
+- [wp-sync-db](https://github.com/wp-sync-db/wp-sync-db) - A WordPress plugin that lets you push, pull, and sync database tables between WordPress installations
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

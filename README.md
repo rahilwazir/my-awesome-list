@@ -549,6 +549,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
 - [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
 - [Install Linux Malware Detect (LMD) and ClamAV](https://www.howtoforge.com/tutorial/how-to-install-lmd-and-clamav-on-centos-7/) - Linux Malware Detect (LMD) is malware detector and scanner for Linux
+- **Missing `freshclam`** [Install ClamAV on CentOS 7](https://hostpresto.com/community/tutorials/how-to-install-clamav-on-centos-7/) - ClamAV or Clam Antivirus is an open source antivirus tool for UNIX
 
 ## Email Marketing Solutions
 - [mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.

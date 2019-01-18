@@ -455,6 +455,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [radare2](https://github.com/radare/radare2) - unix-like reverse engineering framework and commandline tools security
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Free website malware and security scanner
 - [Maldet](https://www.rfxn.com/projects/linux-malware-detect/) - Linux Malware Detect (LMD) is a malware scanner for Linux
+- [ClamAV](https://www.clamav.net/) - an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats
 
 ## Cryptocurrency
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -547,6 +548,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [How to submit a package to PyPI](http://peterdowns.com/posts/first-time-with-pypi.html)
 - [How to Clean a Hacked WordPress Site using Wordfence](https://www.wordfence.com/docs/how-to-clean-a-hacked-wordpress-site-using-wordfence/)
 - [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+- [Install Linux Malware Detect (LMD) and ClamAV](https://www.howtoforge.com/tutorial/how-to-install-lmd-and-clamav-on-centos-7/) - Linux Malware Detect (LMD) is malware detector and scanner for Linux
 
 ## Email Marketing Solutions
 - [mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.

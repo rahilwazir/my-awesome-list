@@ -133,6 +133,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

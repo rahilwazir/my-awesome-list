@@ -55,6 +55,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [UI](#ui)
   - [Wireframes](#wireframes)
   - [Photo Editors](#photo-editors)
+- [Audio/Video](#audio-video)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
@@ -487,6 +488,10 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 
 ### Photo Editors
 - [Photopea](https://www.photopea.com/) - Online Image Editor
+
+## Audio/Video
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video
+- [Handbrake](https://github.com/HandBrake/HandBrake) - The open source video transcoder
 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.

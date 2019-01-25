@@ -55,7 +55,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [UI](#ui)
   - [Wireframes](#wireframes)
   - [Photo Editors](#photo-editors)
-- [Audio/Video](#audio-video)
+- [Audio/Video](#audiovideo)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)

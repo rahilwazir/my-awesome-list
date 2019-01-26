@@ -120,6 +120,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

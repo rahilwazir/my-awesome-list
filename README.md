@@ -270,6 +270,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 - [hotkey](https://github.com/github/hotkey) - Global DOM element activation
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
+- [js-xlsx](https://github.com/SheetJS/js-xlsx) - :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

@@ -16,6 +16,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Shell](#shell)
   - [Ruby](#ruby)
   - [Rust](#rust)
+- [Testing Frameworks](testing-frameworks)
 - [SQL](#sql)
 - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)

@@ -323,6 +323,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [swc](https://github.com/swc-project/swc) - Super-fast alternative for babel
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 
+## Testing Frameworks
+- [Codeception](https://github.com/codeception/codeception) - Full-stack testing PHP framework
+- [appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
+
 ## SQL
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them
 

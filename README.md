@@ -24,7 +24,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Markup Languages](#markup-languages)
   - [HTML](#html)
   - [CSS](#css)
-- [Licenses](#licenses)
 - [Operating Systems](#operating-systems)
   - [Linux](#linux)
     - [Fedora](#fedora)
@@ -345,9 +344,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets.
 - [microbundle](https://github.com/developit/microbundle) - :package: Zero-configuration bundler for tiny modules
 
-## Licenses
-- [MIT vs GPL](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license)
-
 ## Markup Languages
 
 ### CSS
@@ -554,6 +550,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Alpha Vantage](https://www.alphavantage.co/) - Free APIs for Realtime and Historical Stock, Forex (FX), Cryptocurrency Data, Technical Analysis, Charting, and More!
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2018
 - [mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
+- [TLDRLegal](https://tldrlegal.com) - Software Licenses in Plain English. Lookup popular software licenses summarized at-a-glance
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

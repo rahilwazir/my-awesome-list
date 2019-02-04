@@ -457,6 +457,10 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Antigen](https://github.com/zsh-users/antigen)
 - [ngrok](https://ngrok.com/) - Secure tunnels to localhost
 
+### Web
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor
+- [Gitter](https://gitlab.com/gitlab-org/gitter/webapp) - Gitter is a community for software developers
+
 ## Networking
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147)
 

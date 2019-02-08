@@ -270,6 +270,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [hotkey](https://github.com/github/hotkey) - Global DOM element activation
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
+- [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

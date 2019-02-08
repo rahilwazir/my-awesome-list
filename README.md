@@ -519,6 +519,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :dizzy: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - :cd: Free software that works great, and also happens to be open-source Python
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

@@ -271,6 +271,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
 - [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+- [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
+- [qoa](https://github.com/klaussinani/qoa) - :speech_balloon: Minimal interactive command-line prompts
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

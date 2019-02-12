@@ -440,6 +440,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 
 ### Nginx
 - [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) - :gear: NGiИX config generator generator on steroids :syringe:
+- [nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) - :zap: This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%
 
 ### HTTP
 - [Caching](https://blog.fortrabbit.com/mastering-http-caching)

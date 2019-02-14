@@ -434,6 +434,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [WSDL, SOAP and REST](http://stackoverflow.com/questions/3764681/what-are-wsdl-soap-and-rest)
 
 ## Web Servers
+- [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server
 
 ### Apache
 - [.htaccess tester](http://htaccess.mwl.be/)

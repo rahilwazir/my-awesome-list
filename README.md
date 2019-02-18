@@ -137,6 +137,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client
+- [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
@@ -526,6 +527,8 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - :cd: Free software that works great, and also happens to be open-source Python
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
+- [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :star: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more
 
 ### Unicode Character
 - [Unicode Character Ranges](http://jrgraphix.net/r/Unicode/)

@@ -586,4 +586,4 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 
 ## Email Marketing Solutions
 - [mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
-- [MoonMail](https://github.com/mautic/mautic) - Shoot billions of emails using AWS - SES - Lambda
+- [MoonMail](https://github.com/MoonMail/MoonMail) - Shoot billions of emails using AWS - SES - Lambda

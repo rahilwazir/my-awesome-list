@@ -176,6 +176,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Tonik](https://github.com/tonik/theme) - Tonik is a WordPress Starter Theme which aims to modernize, organize and enhance some aspects of WordPress theme development
 - [wp-sync-db](https://github.com/wp-sync-db/wp-sync-db) - A WordPress plugin that lets you push, pull, and sync database tables between WordPress installations
 - [Awesome ACF](https://awesomeacf.com/) - Over 200 third party extensions for the awesome Advanced Custom Fields WordPress plugin
+- [wp-filters-extras](https://github.com/herewithme/wp-filters-extras/) - Allow to remove filter/action on hooks for specific cases with CLASS PHP
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

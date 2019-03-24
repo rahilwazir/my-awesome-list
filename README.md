@@ -16,6 +16,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Shell](#shell)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - <a href="#c-2">C#</a>
 - [Testing Frameworks](testing-frameworks)
 - [SQL](#sql)
 - [Machine Learning](#machine-learning)
@@ -338,6 +339,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [swc](https://github.com/swc-project/swc) - Super-fast alternative for babel
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client
+- [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend.
+
+### <a name="#csharp"></a>C#
+- [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
 ## Testing Frameworks
 - [Codeception](https://github.com/codeception/codeception) - Full-stack testing PHP framework

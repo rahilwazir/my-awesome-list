@@ -284,6 +284,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [laxxx](https://github.com/alexfoxy/laxxx) - Simple & light weight vanilla javascript plugin to create beautiful animations things when you scroll.
 - [stickybits](https://github.com/dollarshaveclub/stickybits) - Stickybits is a lightweight alternative to `position: sticky` polyfills :candy:
+- [marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
+- [mithril.js](https://github.com/MithrilJS/mithril.js) - A Javascript Framework for Building Brilliant Applications
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

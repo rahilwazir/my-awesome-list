@@ -580,6 +580,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [TLDRLegal](https://tldrlegal.com) - Software Licenses in Plain English. Lookup popular software licenses summarized at-a-glance
 - [RapidAPI](https://rapidapi.com/) - Discover and connect to thousands of APIs in the world's largest API Hub
+- [Grant a user permissions on www-data owned /var/www](https://askubuntu.com/questions/365087/grant-a-user-permissions-on-www-data-owned-var-www)
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

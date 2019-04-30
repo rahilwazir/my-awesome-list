@@ -286,6 +286,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [stickybits](https://github.com/dollarshaveclub/stickybits) - Stickybits is a lightweight alternative to `position: sticky` polyfills :candy:
 - [marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [mithril.js](https://github.com/MithrilJS/mithril.js) - A Javascript Framework for Building Brilliant Applications
+- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

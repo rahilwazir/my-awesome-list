@@ -280,7 +280,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [qoa](https://github.com/klaussinani/qoa) - :speech_balloon: Minimal interactive command-line prompts
-- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [laxxx](https://github.com/alexfoxy/laxxx) - Simple & light weight vanilla javascript plugin to create beautiful animations things when you scroll.
 - [stickybits](https://github.com/dollarshaveclub/stickybits) - Stickybits is a lightweight alternative to `position: sticky` polyfills :candy:

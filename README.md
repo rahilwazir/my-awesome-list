@@ -149,6 +149,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [pimcore](https://github.com/pimcore/pimcore) - The leading enterprise platform for CMS/CMF, MDM, PIM, DAM and E-Commerce
 - [psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [validation](https://github.com/rakit/validation) - PHP Standalone Validation Library
+- [validate](https://github.com/dsheiko/validate) - Extendable PHP validation library for testing complex types against a contract
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations

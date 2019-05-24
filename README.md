@@ -285,6 +285,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [mithril.js](https://github.com/MithrilJS/mithril.js) - A Javascript Framework for Building Brilliant Applications
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project
+- [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

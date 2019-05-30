@@ -290,6 +290,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project
 - [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation
+- [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

@@ -123,6 +123,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office files.
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML

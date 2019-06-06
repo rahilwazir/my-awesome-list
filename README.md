@@ -346,7 +346,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [xi-editor](https://github.com/google/xi-editor) - A modern editor with a backend written in Rust
 - [alacritty](https://github.com/jwilm/alacritty) -  A cross-platform, GPU-accelerated terminal emulator
 - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
-- [swc](https://github.com/swc-project/swc) - Super-fast alternative for babel
+- [swc](https://github.com/swc-project/swc) - Super-fast javascript to javascript compiler written in rust
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend.

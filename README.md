@@ -350,6 +350,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend.
+- [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework
 
 ### <a name="#csharp"></a>C#
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.

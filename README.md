@@ -141,6 +141,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client
 - [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
+- [Automagica](https://github.com/OakwoodAI/Automagica) - 🤖 Open Source (Smart) Robotic Process Automation
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

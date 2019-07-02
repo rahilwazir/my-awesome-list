@@ -529,6 +529,14 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Pencil](http://pencil.evolus.vn) - An open-source GUI prototyping tool that's available for ALL platforms. 
 - [Pidoco](https://pidoco.com) - Pidoco. Your wireframing tool
 
+### Inspiration
+- [awwwards](https://www.awwwards.com/)
+- [Dribble](https://dribbble.com/tags/webdesign)
+- [ResponsiveDesign](https://responsivedesign.is/examples/)
+- [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
+- [siteinspire](https://www.siteinspire.com/)
+- [The Best Designs](https://www.thebestdesigns.com/)
+
 ### Photo Editors
 - [Photopea](https://www.photopea.com/) - Online Image Editor
 

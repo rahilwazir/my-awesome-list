@@ -315,6 +315,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [apify-js](https://github.com/apifytech/apify-js) - The scalable web crawling and scraping library for JavaScript
 - [strapi](https://github.com/strapi/strapi) - :rocket: Node.js Content Management Framework (headless-CMS) to build powerful API with no effort
+- [feathers](https://github.com/feathersjs/feathers) - A REST and real-time API layer for Node.js, React Native and the browser
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

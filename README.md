@@ -155,6 +155,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [validation](https://github.com/rakit/validation) - PHP Standalone Validation Library
 - [validate](https://github.com/dsheiko/validate) - Extendable PHP validation library for testing complex types against a contract
 - [php-phantomjs](https://github.com/jonnnnyw/php-phantomjs) - Execute PhantomJS commands through PHP
+- [flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations
@@ -355,6 +356,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend.
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework
+- [pax](https://github.com/nathan/pax) - The fastest JavaScript bundler in the galaxy
 
 ### <a name="#csharp"></a>C#
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.

@@ -187,6 +187,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Awesome ACF](https://awesomeacf.com/) - Over 200 third party extensions for the awesome Advanced Custom Fields WordPress plugin
 - [wp-filters-extras](https://github.com/herewithme/wp-filters-extras/) - Allow to remove filter/action on hooks for specific cases with CLASS PHP
 - [wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
+- [bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure
+- [sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
+- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

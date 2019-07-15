@@ -300,6 +300,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style
+- [quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

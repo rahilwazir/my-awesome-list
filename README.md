@@ -78,6 +78,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ### C++
 - [yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+- [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 
 ### Go
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers
@@ -156,6 +157,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [validate](https://github.com/dsheiko/validate) - Extendable PHP validation library for testing complex types against a contract
 - [php-phantomjs](https://github.com/jonnnnyw/php-phantomjs) - Execute PhantomJS commands through PHP
 - [flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities
+- [dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations
@@ -321,6 +323,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [apify-js](https://github.com/apifytech/apify-js) - The scalable web crawling and scraping library for JavaScript
 - [strapi](https://github.com/strapi/strapi) - :rocket: Node.js Content Management Framework (headless-CMS) to build powerful API with no effort
 - [feathers](https://github.com/feathersjs/feathers) - A REST and real-time API layer for Node.js, React Native and the browser
+- [pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
 
 ### Shell
 - [Bash Guide](https://github.com/Idnan/bash-guide)

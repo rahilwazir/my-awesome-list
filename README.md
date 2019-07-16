@@ -399,6 +399,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 
 ## Operating Systems
 

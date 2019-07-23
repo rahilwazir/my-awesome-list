@@ -79,6 +79,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+- [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line
 
 ### Go
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers
@@ -144,7 +145,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client
 - [faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [Automagica](https://github.com/OakwoodAI/Automagica) - 🤖 Open Source (Smart) Robotic Process Automation
-
+- [InstaPy](https://github.com/timgrossmann/InstaPy) - :camera: Instagram Bot - Tool for automated Instagram interactions
+  - [instapy-quickstart](https://github.com/InstaPy/instapy-quickstart) - :dash: Simply get InstaPy up and running in minutes.
+  
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP 

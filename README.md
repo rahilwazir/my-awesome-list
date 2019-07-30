@@ -127,6 +127,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office files.
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage"
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -306,6 +307,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [jexcel](https://github.com/paulhodel/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

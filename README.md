@@ -56,6 +56,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [UI](#ui)
   - [Wireframes](#wireframes)
   - [Photo Editors](#photo-editors)
+  - [Pixel Art](#pixel-art)
   - [Inspiration](#inspiration)
 - [Audio/Video](#audiovideo)
 - [Curated lists](#curated-lists)
@@ -558,6 +559,11 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ### Photo Editors
 - [Photopea](https://www.photopea.com/) - Online Image Editor
 
+### Pixel Art
+- [piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art
+- [pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
+- [poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
+
 ## Audio/Video
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video
 - [Handbrake](https://github.com/HandBrake/HandBrake) - The open source video transcoder
@@ -617,6 +623,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [TLDRLegal](https://tldrlegal.com) - Software Licenses in Plain English. Lookup popular software licenses summarized at-a-glance
 - [RapidAPI](https://rapidapi.com/) - Discover and connect to thousands of APIs in the world's largest API Hub
 - [Grant a user permissions on www-data owned /var/www](https://askubuntu.com/questions/365087/grant-a-user-permissions-on-www-data-owned-var-www)
+- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

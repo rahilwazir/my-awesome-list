@@ -525,6 +525,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## Cryptocurrency
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [Learning-Bitcoin-from-the-Command-Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line) - The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line
+- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 
 ### Payment Gateways
 - [Coinbase](https://www.coinbase.com/)

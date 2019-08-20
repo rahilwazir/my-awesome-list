@@ -58,6 +58,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Photo Editors](#photo-editors)
   - [Pixel Art](#pixel-art)
   - [Inspiration](#inspiration)
+- [SEO](#seo)
 - [Audio/Video](#audiovideo)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
@@ -568,6 +569,10 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## Audio/Video
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video
 - [Handbrake](https://github.com/HandBrake/HandBrake) - The open source video transcoder
+
+## SEO
+
+- [SEO Cheat Sheet for Devs](https://dev.to/pagely/seo-cheat-sheet-for-devs-5h1g)
 
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.

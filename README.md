@@ -56,8 +56,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [UI](#ui)
   - [Wireframes](#wireframes)
   - [Photo Editors](#photo-editors)
-  - [Pixel Art](#pixel-art)
   - [Inspiration](#inspiration)
+  - [Pixel Art](#pixel-art)
 - [SEO](#seo)
 - [Audio/Video](#audiovideo)
 - [Curated lists](#curated-lists)
@@ -550,6 +550,9 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Pencil](http://pencil.evolus.vn) - An open-source GUI prototyping tool that's available for ALL platforms. 
 - [Pidoco](https://pidoco.com) - Pidoco. Your wireframing tool
 
+### Photo Editors
+- [Photopea](https://www.photopea.com/) - Online Image Editor
+
 ### Inspiration
 - [awwwards](https://www.awwwards.com/)
 - [Dribble](https://dribbble.com/tags/webdesign)
@@ -558,20 +561,17 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [siteinspire](https://www.siteinspire.com/)
 - [The Best Designs](https://www.thebestdesigns.com/)
 
-### Photo Editors
-- [Photopea](https://www.photopea.com/) - Online Image Editor
-
 ### Pixel Art
 - [piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art
 - [pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
+- [onlinepngtools.com](https://onlinepngtools.com) - World's simplest online Portable Network Graphics image pixelator
 
 ## Audio/Video
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video
 - [Handbrake](https://github.com/HandBrake/HandBrake) - The open source video transcoder
 
 ## SEO
-
 - [SEO Cheat Sheet for Devs](https://dev.to/pagely/seo-cheat-sheet-for-devs-5h1g)
 
 ## Curated Lists

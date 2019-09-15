@@ -17,7 +17,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Ruby](#ruby)
   - [Rust](#rust)
   - <a href="#c-2">C#</a>
-- [Testing Frameworks](testing-frameworks)
+- [Testing Frameworks](#testing-frameworks)
 - [SQL](#sql)
 - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
@@ -587,7 +587,6 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc.
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :dizzy: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - :cd: Free software that works great, and also happens to be open-source Python
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.

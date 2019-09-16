@@ -567,6 +567,10 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
 - [onlinepngtools.com](https://onlinepngtools.com) - World's simplest online Portable Network Graphics image pixelator
 
+### Tools
+- [Color extraction](https://labs.tineye.com/color/) - MulticolorEngine will display a color palette for all the colors identified in your image.
+- [Colormind](http://colormind.io/image) - Colormind is a color scheme generator that uses deep learning.
+
 ## Audio/Video
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video
 - [Handbrake](https://github.com/HandBrake/HandBrake) - The open source video transcoder

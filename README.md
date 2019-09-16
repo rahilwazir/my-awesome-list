@@ -58,6 +58,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Photo Editors](#photo-editors)
   - [Inspiration](#inspiration)
   - [Pixel Art](#pixel-art)
+  - [Tools](#tools)
 - [SEO](#seo)
 - [Audio/Video](#audiovideo)
 - [Curated lists](#curated-lists)
@@ -560,6 +561,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
 - [siteinspire](https://www.siteinspire.com/)
 - [The Best Designs](https://www.thebestdesigns.com/)
+- [LottieFiles](https://lottiefiles.com/) - The Future of Animations and Interactive Design
 
 ### Pixel Art
 - [piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art

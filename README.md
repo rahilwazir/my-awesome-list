@@ -453,6 +453,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - Allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [mactype](https://github.com/snowie2000/mactype) - A better font rasterizer for Windows.
+- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 
 #### Powershell
 - [Remotely enable/disable a network interface](https://blogs.technet.microsoft.com/chrisavis/2013/07/09/using-powershell-to-remotely-enabledisable-a-network-interface/)

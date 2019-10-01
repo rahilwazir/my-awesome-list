@@ -131,6 +131,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office files.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage"
+- [gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -151,7 +152,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Automagica](https://github.com/OakwoodAI/Automagica) - 🤖 Open Source (Smart) Robotic Process Automation
 - [InstaPy](https://github.com/timgrossmann/InstaPy) - :camera: Instagram Bot - Tool for automated Instagram interactions
   - [instapy-quickstart](https://github.com/InstaPy/instapy-quickstart) - :dash: Simply get InstaPy up and running in minutes.
-  
+- [ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
+
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP 
@@ -387,7 +389,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 ## Machine Learning
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
-
+- [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 ### Deep Learning
 - [RL-Adventure](https://github.com/higgsfield/RL-Adventure) - Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code
 
@@ -636,6 +638,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [RapidAPI](https://rapidapi.com/) - Discover and connect to thousands of APIs in the world's largest API Hub
 - [Grant a user permissions on www-data owned /var/www](https://askubuntu.com/questions/365087/grant-a-user-permissions-on-www-data-owned-var-www)
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
 
 ## Articles
 - [Make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks/)

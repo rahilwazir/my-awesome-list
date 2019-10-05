@@ -314,6 +314,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [jexcel](https://github.com/paulhodel/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets
 - [moveable](https://github.com/daybrush/moveable) - :left_right_arrow: :arrow_up_down: :arrows_counterclockwise: Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! 
+- [create-social-network](https://github.com/udilia/create-social-network) - Create Social Network by running one command
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

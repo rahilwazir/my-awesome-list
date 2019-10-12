@@ -153,6 +153,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [InstaPy](https://github.com/timgrossmann/InstaPy) - :camera: Instagram Bot - Tool for automated Instagram interactions
   - [instapy-quickstart](https://github.com/InstaPy/instapy-quickstart) - :dash: Simply get InstaPy up and running in minutes.
 - [ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
+- [erpnext](https://github.com/frappe/erpnext) - Open Source ERP built for the web
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

@@ -59,6 +59,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Inspiration](#inspiration)
   - [Pixel Art](#pixel-art)
   - [Tools](#tools)
+- [CRM](#crm)
 - [SEO](#seo)
 - [Audio/Video](#audiovideo)
 - [Curated lists](#curated-lists)
@@ -581,6 +582,11 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## Audio/Video
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video
 - [Handbrake](https://github.com/HandBrake/HandBrake) - The open source video transcoder
+
+## CRM
+- [espocrm](https://github.com/espocrm/espocrm) - EspoCRM open source CRM application
+- [opencrx](https://sourceforge.net/projects/opencrx) - professional CRM and groupware service, ready for the cloud
+- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business
 
 ## SEO
 - [SEO Cheat Sheet for Devs](https://dev.to/pagely/seo-cheat-sheet-for-devs-5h1g)

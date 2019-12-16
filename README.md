@@ -59,6 +59,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [Inspiration](#inspiration)
   - [Pixel Art](#pixel-art)
   - [Tools](#tools)
+  - [Design Resources](#design-resources)
 - [CRM](#crm)
 - [SEO](#seo)
 - [Audio/Video](#audiovideo)
@@ -581,6 +582,11 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ### Tools
 - [Color extraction](https://labs.tineye.com/color/) - MulticolorEngine will display a color palette for all the colors identified in your image.
 - [Colormind](http://colormind.io/image) - Colormind is a color scheme generator that uses deep learning.
+
+### Design Resources
+- [designmodo](https://designmodo.com/)
+- [WebdesignerDepot](https://www.webdesignerdepot.com)
+- [unDraw](https://undraw.co/illustrations)
 
 ## Audio/Video
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video

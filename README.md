@@ -360,6 +360,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Tmuxinator](https://github.com/tmuxinator/tmuxinator)
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker
 - [bluedoc](https://github.com/thebluedoc/bluedoc) - An open-source Document management tool for enterprise self host
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Simple and elegant live chat software :firespeech_balloon
 
 ### Rust
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. 

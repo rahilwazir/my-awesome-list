@@ -63,10 +63,12 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [CRM](#crm)
 - [SEO](#seo)
 - [Audio/Video](#audiovideo)
+- [Email Marketing Solutions](#email-marketing-solutions)
+- [Business Analytics](#business-analytics)
 - [Curated lists](#curated-lists)
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
-- [Email Marketing Solutions](#email-marketing-solutions)
+
 
 ## Programming Languages
 
@@ -601,6 +603,15 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## SEO
 - [SEO Cheat Sheet for Devs](https://dev.to/pagely/seo-cheat-sheet-for-devs-5h1g)
 
+## Email Marketing Solutions
+- [mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
+- [MoonMail](https://github.com/MoonMail/MoonMail) - Shoot billions of emails using AWS - SES - Lambda
+
+## Business Analytics
+- [cube.js](https://github.com/cube-js/cube.js) -  :bar_chart: Open Source Analytics Framework
+- [matomo](https://github.com/matomo-org/matomo) - Matomo is the leading open alternative to Google Analytics that gives you full control over your data.
+- [Open Web Analytics](https://github.com/padams/Open-Web-Analytics) - An open source web analytics software framework that you can use to track and analyze how people use your websites and applications
+
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
@@ -675,7 +686,3 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Install Linux Malware Detect (LMD) and ClamAV](https://www.howtoforge.com/tutorial/how-to-install-lmd-and-clamav-on-centos-7/) - Linux Malware Detect (LMD) is malware detector and scanner for Linux
 - **Missing `freshclam`** [Install ClamAV on CentOS 7](https://hostpresto.com/community/tutorials/how-to-install-clamav-on-centos-7/) - ClamAV or Clam Antivirus is an open source antivirus tool for UNIX
 - [Setup a Local Only SMTP Email Server (Linux, Unix, Mac)](https://gist.github.com/raelgc/6031274)
-
-## Email Marketing Solutions
-- [mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
-- [MoonMail](https://github.com/MoonMail/MoonMail) - Shoot billions of emails using AWS - SES - Lambda

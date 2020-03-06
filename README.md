@@ -87,6 +87,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images.
 
 ### Go
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers

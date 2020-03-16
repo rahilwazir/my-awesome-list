@@ -537,6 +537,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Free website malware and security scanner
 - [Maldet](https://www.rfxn.com/projects/linux-malware-detect/) - Linux Malware Detect (LMD) is a malware scanner for Linux
 - [ClamAV](https://www.clamav.net/) - an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats
+- [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
 
 ## Cryptocurrency
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree

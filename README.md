@@ -63,6 +63,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [CRM](#crm)
 - [SEO](#seo)
 - [Audio/Video](#audiovideo)
+  - [Video Conference](#video-conference)
 - [Email Marketing Solutions](#email-marketing-solutions)
 - [Business Analytics](#business-analytics)
 - [Curated lists](#curated-lists)
@@ -596,6 +597,10 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## Audio/Video
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video
 - [Handbrake](https://github.com/HandBrake/HandBrake) - The open source video transcoder
+
+### Video Conference
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application
+- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system
 
 ## CRM
 - [espocrm](https://github.com/espocrm/espocrm) - EspoCRM open source CRM application

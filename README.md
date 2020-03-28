@@ -325,6 +325,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [create-social-network](https://github.com/udilia/create-social-network) - Create Social Network by running one command
 - [aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+- [react-design-editor](https://github.com/salgum1114/react-design-editor) - React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint.
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries
 
 #### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal

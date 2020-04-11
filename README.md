@@ -64,6 +64,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [SEO](#seo)
 - [Audio/Video](#audiovideo)
   - [Video Conference](#video-conference)
+  - [Chat Solution](#chat-solution)
 - [Email Marketing Solutions](#email-marketing-solutions)
 - [Business Analytics](#business-analytics)
 - [Curated lists](#curated-lists)
@@ -603,6 +604,9 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ### Video Conference
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application
 - [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system
+
+## Chat Solution
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications
 
 ## CRM
 - [espocrm](https://github.com/espocrm/espocrm) - EspoCRM open source CRM application

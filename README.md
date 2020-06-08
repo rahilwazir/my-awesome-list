@@ -535,6 +535,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 
 ## Docker
 - [Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive and fun playground to learn Docker
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 
 ## Security
 - [radare2](https://github.com/radare/radare2) - unix-like reverse engineering framework and commandline tools security
@@ -542,6 +543,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Maldet](https://www.rfxn.com/projects/linux-malware-detect/) - Linux Malware Detect (LMD) is a malware scanner for Linux
 - [ClamAV](https://www.clamav.net/) - an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats
 - [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
+- [Shodanfy.py](https://github.com/m4ll0k/Shodanfy.py) - Get ports,vulnerabilities,informations,banners,..etc for any IP with Shodan
 
 ## Cryptocurrency
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree

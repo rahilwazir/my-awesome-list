@@ -621,6 +621,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## Email Marketing Solutions
 - [mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [MoonMail](https://github.com/MoonMail/MoonMail) - Shoot billions of emails using AWS - SES - Lambda
+- [sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing.
 
 ## Business Analytics
 - [cube.js](https://github.com/cube-js/cube.js) -  :bar_chart: Open Source Analytics Framework

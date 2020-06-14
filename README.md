@@ -405,8 +405,10 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+
 ### Deep Learning
 - [RL-Adventure](https://github.com/higgsfield/RL-Adventure) - Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code
+- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) - Books for machine learning, deep learning, math, NLP, CV, RL, etc
 
 ## Bundlers
 - [parcel](https://github.com/parcel-bundler/parcel) - :package: :rocket: Blazing fast, zero configuration web application bundler 

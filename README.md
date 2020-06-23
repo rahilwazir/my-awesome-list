@@ -83,6 +83,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs.
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports
+- [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 
 ### C++
 - [yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
@@ -546,6 +547,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [ClamAV](https://www.clamav.net/) - an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats
 - [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
 - [Shodanfy.py](https://github.com/m4ll0k/Shodanfy.py) - Get ports,vulnerabilities,informations,banners,..etc for any IP with Shodan
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 
 ## Cryptocurrency
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree

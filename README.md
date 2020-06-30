@@ -11,7 +11,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [PHP](#php)
     - [WordPress](#wordpress)
   - [JavaScript](#javascript)
-    - [jQuery](#jquery)
   - [NodeJS](#nodejs)
   - [Shell](#shell)
   - [Ruby](#ruby)
@@ -329,9 +328,9 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [react-design-editor](https://github.com/salgum1114/react-design-editor) - React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint.
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries
-
-#### jQuery
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind.
+- [resumake.io](https://github.com/saadq/resumake.io) - :clipboard: A website for automatically generating elegant LaTeX resumes.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

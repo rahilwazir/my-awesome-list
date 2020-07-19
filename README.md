@@ -210,6 +210,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure
 - [sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
+- [frontity](https://github.com/frontity/frontity) - https://github.com/frontity/frontity
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip
@@ -331,6 +332,8 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - web based terminal
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind.
 - [resumake.io](https://github.com/saadq/resumake.io) - :clipboard: A website for automatically generating elegant LaTeX resumes.
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
+- [super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection
@@ -569,6 +572,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [web.dev](https://web.dev/) - Let's build the future of the web.
 - [paletton](http://paletton.com) - The Color Scheme Designer
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - Adobe Color CC
+- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
 ### Wireframes
 - [MockFlow](https://mockflow.com) - The quickest way to brainstorm user interface ideas 
@@ -636,6 +640,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ## Curated Lists
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of hacking / penetration testing resources to make you better!
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [codeface](https://github.com/chrissimpkins/codeface) -  Typefaces for source code beautification
 - [awesome-go](https://github.com/avelino/awesome-go)
@@ -654,6 +659,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 
 ### Unicode Character

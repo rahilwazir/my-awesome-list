@@ -210,7 +210,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure
 - [sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
 - [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
-- [frontity](https://github.com/frontity/frontity) - https://github.com/frontity/frontity
+- [frontity](https://github.com/frontity/frontity) - » Frontity - The React framework for WordPress
 
 ### JavaScript
 - [TippyJS](https://github.com/atomiks/tippyjs) - Tooltip

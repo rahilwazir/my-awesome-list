@@ -124,7 +124,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [bimg](https://github.com/h2non/bimg) - Small Go package for fast high-level image processing powered by libvips C library
 - [imaginary](https://github.com/h2non/imaginary) - Fast, simple, horizontally scalable HTTP microservice for high-level image processing with first-class Docker support
-- [tunnel](https://github.com/labstack/tunnel) - Expose local servers to internet securely
+- [tunnel-client](https://github.com/labstack/tunnel-client) - Expose local servers to the internet securely
 - [bed](https://github.com/itchyny/bed) - Binary editor written in Go
 - [usql](https://github.com/xo/usql) - universal command-line interface for SQL databases
 - [httpu](https://github.com/hazbo/httpu) - The terminal-first http client

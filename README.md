@@ -161,6 +161,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
   - [instapy-quickstart](https://github.com/InstaPy/instapy-quickstart) - :dash: Simply get InstaPy up and running in minutes.
 - [ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [erpnext](https://github.com/frappe/erpnext) - Open Source ERP built for the web
+- [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

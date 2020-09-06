@@ -139,6 +139,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office files.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage"
 - [gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -162,6 +163,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [erpnext](https://github.com/frappe/erpnext) - Open Source ERP built for the web
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decode encryptions without a key, decode encodings, and crack hashes
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)

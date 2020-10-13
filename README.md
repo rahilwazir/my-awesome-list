@@ -140,6 +140,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage"
 - [gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -337,6 +338,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [resumake.io](https://github.com/saadq/resumake.io) - :clipboard: A website for automatically generating elegant LaTeX resumes.
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
 - [super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
+- [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 
 ### NodeJS
 - [franc](https://github.com/wooorm/franc) - Natural language detection

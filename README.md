@@ -539,6 +539,7 @@ mytop is a console-based (non-gui) tool for monitoring the threads and overall p
 ### Web
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor
 - [Gitter](https://gitlab.com/gitlab-org/gitter/webapp) - Gitter is a community for software developers
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## Networking
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147)

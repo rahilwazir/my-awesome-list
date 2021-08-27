@@ -70,7 +70,6 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [Useful Resources](#useful-resources)
 - [Articles](#articles)
 
-
 ## Programming Languages
 
 ### C
@@ -141,6 +140,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [filebrowser](https://github.com/filebrowser/filebrowser) - :open_file_folder: Web File Browser
 
 ### Python
 - [img2html](https://github.com/xlzd/img2html) - Convert image to HTML
@@ -165,6 +165,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [erpnext](https://github.com/frappe/erpnext) - Open Source ERP built for the web
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decode encryptions without a key, decode encodings, and crack hashes
+- [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries
 
 ### PHP
 - [Memory Limit calculator for Image Resizing](http://www.dotsamazing.com/en/labs/phpmemorylimit)
@@ -180,6 +181,7 @@ Collection of awesome scripts, softwares, articles, projects, answers and many o
 - [flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities
 - [dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter
 - [Devilbox](http://devilbox.org/) - Docker LAMP development stack with valid https support
+- [nextcloud-server](https://github.com/nextcloud/server) - :cloud: Nextcloud server, a safe home for all your data
 
 #### WordPress
 - [WP-CLI](https://github.com/wp-cli/wp-cli) - Set of command-line tools for managing WordPress installations
